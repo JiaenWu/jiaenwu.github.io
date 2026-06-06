@@ -106,9 +106,11 @@ Please email the following:
 
 <ul>
 <li>CV</li>
-<li>Short statement of research interests</li>
+<li>Cover letter to motivate your application</li>
+<li>Statement of research experience and interests</li>
+<li>Transcripts for bachelor and master (if any), containing the list of courses and grades.</li>
 <li>Relevant publications (if any)</li>
-<li>Expected start date</li>
+<li>Optional supproting documents: thesis, etc</li>
 </ul>
 
 Include “Join Application – [Your Name]” in the subject line.
