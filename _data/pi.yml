@@ -1,0 +1,13 @@
+# Optional: detailed education and bio for the About page.
+# Basic info (name, photo, links) now lives in _config.yml.
+# Delete this file if you only need the basics.
+
+- education:
+    - "Postdoctoral Scholar, Stanford Biomechatronics Lab, Stanford University (2023–Present)"
+    - "Ph.D. Multi-Scale Robotics Lab, ETH Zurich (2022)"
+    - "B.S. Control Engineering, Zhejiang University (2017)"
+  educationshort:
+    - "Postdoc, Stanford University (2023–Present)"
+    - "Ph.D., ETH Zurich (2022)"
+    - "B.S., Zhejiang University (2017)"
+

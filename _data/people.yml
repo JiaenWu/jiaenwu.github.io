@@ -1,0 +1,31 @@
+# Students and mentees, shown on the About page.
+# Each entry needs: name, location, degree, year
+- name: Anthony Robert David Sausedo
+  location: Stanford University
+  degree: B.S. 
+  year: 2025-2026
+
+- name: Jack Ren
+  location: Stanford University
+  degree: M.S. 
+  year: 2025-2026
+
+- name: Hanvit Cho
+  location: Stanford University
+  degree: M.S. 
+  year: 2023-2024
+
+- name: Jiawei Zhu
+  location: ETH Zurich
+  degree: M.S. 
+  year: 2020
+
+- name: Nina Schmid
+  location: ETH Zurich
+  degree: B.S. 
+  year: 2020
+
+- name: Kiran Kuruvithadam
+  location: ETH Zurich
+  degree: M.S. 
+  year: 2019

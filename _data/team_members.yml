@@ -1,0 +1,27 @@
+# Current students and postdocs.
+# Each entry needs: name, photo, info
+# Optional: email, website, scholar, github, researchgate, cv
+# Photos go in images/ or images/team/
+# e.g.
+# - name: Albert Hibbs
+#   photo: team/albert-hibbs.svg
+#   info: PhD Student, Quantum Mechanics
+#   email: bob@university.edu
+#   website: https://bob.dev
+#   github: https://github.com/bob
+
+- name: "This could be you!"
+  photo: rock.jpg
+  info: PhD Student, Biomechanics
+  email: alice@university.edu
+  # website: https://alice.dev
+  # github: https://github.com/alice
+
+
+- name: "This could be you!"
+  photo: rock.jpg
+  info: See openings for more info
+
+- name: "This could be you!"
+  photo: rock.jpg
+  info: See openings for more info
