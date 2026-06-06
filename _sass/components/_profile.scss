@@ -13,8 +13,14 @@
   border-radius: var(--radius-xl);
   padding: var(--space-10) var(--space-6) var(--space-8);
   box-shadow: var(--shadow-md);
-  position: relative;
   overflow: hidden;
+  position: relative;
+  
+  // position: sticky;
+  // top: 90px;          // adjust: distance from top (account for navbar height)
+  // align-self: start;  // important if the parent is a flex/grid container
+  // z-index: 1;
+  
 
   // Decorative accent bar at top
   &::before {
