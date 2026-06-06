@@ -1,3 +1,4 @@
+
 # ============================================================
 # STEP 1: Your Identity (required)
 # ============================================================
@@ -30,7 +31,7 @@ url: "https://jiaenwu.github.io"
 
 # Google Analytics — paste your GA4 measurement ID, or leave blank
 analytics:
-  google_id: ""
+  google_id: "G-WLX0Z6G4X2"
 
 # ============================================================
 # STEP 4: Choose Your Pages (comment out any you don't need)
