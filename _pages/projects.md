@@ -26,14 +26,21 @@ and ongoing projects from our lab and previous collaborations.
 
 <div class="project-media">
 
-<img
-src="{{ site.url }}{{ site.baseurl }}/images/projects/MovieS3.gif"
-alt="Ankle exoskeleton balance assistance"
-loading="lazy"
-class="project-gif">
+<video
+class="project-video-large"
+autoplay
+muted
+loop
+playsinline>
+
+<source
+src="{{ site.url }}{{ site.baseurl }}/videos/projects/MovieS3.mp4"
+type="video/mp4">
+
+</video>
+
 
 </div>
-
 
 <div class="project-content">
 
@@ -81,10 +88,18 @@ Related Publications
 
 <div class="gif-panel">
 
-<img
-src="{{ site.url }}{{ site.baseurl }}/images/projects/patient1_off.gif"
-alt="Patient 1 walking without haptic feedback"
-loading="lazy">
+<video
+class="project-video"
+autoplay
+muted
+loop
+playsinline>
+
+<source
+src="{{ site.url }}{{ site.baseurl }}/videos/projects/patient1_off.mp4"
+type="video/mp4">
+
+</video>
 
 <div class="gif-caption">
 Patient 1 — Haptic Feedback OFF
@@ -94,10 +109,18 @@ Patient 1 — Haptic Feedback OFF
 
 <div class="gif-panel">
 
-<img
-src="{{ site.url }}{{ site.baseurl }}/images/projects/patient1_on.gif"
-alt="Patient 1 walking with haptic feedback"
-loading="lazy">
+<video
+class="project-video"
+autoplay
+muted
+loop
+playsinline>
+
+<source
+src="{{ site.url }}{{ site.baseurl }}/videos/projects/patient1_on.mp4"
+type="video/mp4">
+
+</video>
 
 <div class="gif-caption">
 Patient 1 — Haptic Feedback ON
@@ -107,10 +130,18 @@ Patient 1 — Haptic Feedback ON
 
 <div class="gif-panel">
 
-<img
-src="{{ site.url }}{{ site.baseurl }}/images/projects/patient2_off.gif"
-alt="Patient 2 walking without haptic feedback"
-loading="lazy">
+<video
+class="project-video"
+autoplay
+muted
+loop
+playsinline>
+
+<source
+src="{{ site.url }}{{ site.baseurl }}/videos/projects/patient2_off.mp4"
+type="video/mp4">
+
+</video>
 
 <div class="gif-caption">
 Patient 2 — Haptic Feedback OFF
@@ -120,10 +151,18 @@ Patient 2 — Haptic Feedback OFF
 
 <div class="gif-panel">
 
-<img
-src="{{ site.url }}{{ site.baseurl }}/images/projects/patient2_on.gif"
-alt="Patient 2 walking with haptic feedback"
-loading="lazy">
+<video
+class="project-video"
+autoplay
+muted
+loop
+playsinline>
+
+<source
+src="{{ site.url }}{{ site.baseurl }}/videos/projects/patient2_on.mp4"
+type="video/mp4">
+
+</video>
 
 <div class="gif-caption">
 Patient 2 — Haptic Feedback ON
@@ -171,7 +210,6 @@ Related Publications
 
 </div>
 
-
 ---
 
 ## Microrobotics and Targeted Therapy
@@ -180,9 +218,20 @@ Related Publications
 
 <div class="project-media">
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/projects/microrobot.gif"
-alt="Microrobot system"
-loading="lazy">
+<video
+class="project-video-micro"
+autoplay
+muted
+loop
+playsinline>
+
+<source
+src="{{ site.url }}{{ site.baseurl }}/videos/projects/microrobot.mp4"
+type="video/mp4">
+
+</video>
+
+
 
 </div>
 
