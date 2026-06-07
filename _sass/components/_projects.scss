@@ -1,0 +1,261 @@
+/* =========================================================
+   Projects Page
+========================================================= */
+
+.projects-intro {
+  max-width: 950px;
+  line-height: 1.9;
+  margin-bottom: 2rem;
+  color: var(--text-secondary);
+}
+
+/* -------------------------
+   Project card
+------------------------- */
+
+.project-card {
+  display: grid;
+
+  grid-template-columns:
+    minmax(320px, 420px)
+    1fr;
+
+  gap: 2rem;
+
+  margin-bottom: 3rem;
+
+  padding: 1.8rem;
+
+  border-radius: 20px;
+
+  background:
+    linear-gradient(
+      160deg,
+      var(--bg-card),
+      var(--bg-secondary)
+    );
+
+  border: 1px solid var(--border-color);
+
+  align-items: center;
+}
+
+/* -------------------------
+   Media
+------------------------- */
+
+.project-media img {
+  width: 100%;
+  // height: 280px;
+
+  object-fit: cover;
+
+  border-radius: 16px;
+}
+
+/* -------------------------
+   Video
+------------------------- */
+
+.video-container {
+  position: relative;
+
+  width: 100%;
+
+  padding-bottom: 56.25%;
+
+  overflow: hidden;
+
+  border-radius: 16px;
+}
+
+.video-container iframe {
+  position: absolute;
+
+  top: 0;
+  left: 0;
+
+  width: 100%;
+  height: 100%;
+}
+
+/* -------------------------
+   Text
+------------------------- */
+
+.project-content h3 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+
+  font-size: 1.5rem;
+}
+
+.project-summary {
+  line-height: 1.85;
+  color: var(--text-secondary);
+
+  margin-bottom: 1rem;
+}
+
+.project-details {
+  padding-left: 1.2rem;
+
+  margin-bottom: 1.5rem;
+}
+
+.project-details li {
+  margin-bottom: 0.5rem;
+}
+
+/* -------------------------
+   Buttons
+------------------------- */
+
+.project-links {
+  display: flex;
+  flex-wrap: wrap;
+
+  gap: 1rem;
+}
+
+.project-button,
+.project-button-secondary {
+  display: inline-block;
+
+  padding: 0.7rem 1.2rem;
+
+  border-radius: 999px;
+
+  text-decoration: none;
+
+  transition: all 0.2s ease;
+}
+
+.project-button {
+  background: var(--global-theme-color);
+  color: white !important;
+}
+
+.project-button-secondary {
+  border: 1px solid var(--border-color);
+  color: var(--text-primary);
+}
+
+.project-button:hover,
+.project-button-secondary:hover {
+  transform: translateY(-2px);
+}
+
+/* -------------------------
+   Platform list
+------------------------- */
+
+.platform-list li {
+  margin-bottom: 0.6rem;
+}
+
+/* -------------------------
+   Responsive
+------------------------- */
+
+@media (max-width: 900px) {
+
+  .project-card {
+    grid-template-columns: 1fr;
+  }
+
+}
+
+
+
+/* =========================================================
+   GIF comparison grid
+========================================================= */
+
+.project-media-grid {
+
+  display: grid;
+
+  grid-template-columns: repeat(2, 1fr);
+
+  gap: 1rem;
+
+  margin-bottom: 1.5rem;
+}
+
+/* -------------------------
+   GIF panel
+------------------------- */
+
+.gif-panel {
+
+  background: var(--bg-card);
+
+  border: 1px solid var(--border-color);
+
+  border-radius: 16px;
+
+  overflow: hidden;
+}
+
+/* -------------------------
+   GIF image
+------------------------- */
+
+.gif-panel img {
+
+  width: 100%;
+
+  height: 220px;
+
+  object-fit: cover;
+
+  display: block;
+}
+
+/* -------------------------
+   Caption
+------------------------- */
+
+.gif-caption {
+
+  padding: 0.7rem 1rem;
+
+  font-size: 0.9rem;
+
+  text-align: center;
+
+  color: var(--text-secondary);
+
+  background: var(--bg-secondary);
+}
+
+/* -------------------------
+   Responsive
+------------------------- */
+
+@media (max-width: 700px) {
+
+  .project-media-grid {
+
+    grid-template-columns: 1fr;
+  }
+
+}
+
+/* Scale specific GIF */
+
+// .gif-scale-90 {
+
+//   width: 200% !important;
+
+//   margin: 0 auto;
+
+//   display: block;
+// }
+
+.gif-scale-90 {
+  transform: scale(0.9);
+}
+
+

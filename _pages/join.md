@@ -23,7 +23,7 @@ We welcome applications from:
 </ul>
 
 Ideal candidates have strong backgrounds in one or more of the following:
-robotics, control theory, biomechanics, machine learning, or human movement science.
+robotics, controls, biomechanics, machine learning, embedded systems, or human movement science.
 Prior experience in experimental robotics or human subject studies is a plus.
 
 </div>
@@ -115,14 +115,13 @@ Prospective students are encouraged to contact me with a short CV and a brief de
 
 ## How to Apply
 
-Please email the following:
+Please email a single combined PDF upload (e.g., “Lastname_Firstname.pdf”) containing:
 
 <ul>
-<li>CV</li>
-<li>Cover letter to motivate your application</li>
-<li>Statement of research experience and interests</li>
+<li>Cover letter (1 page)</li>
+<li>CV including publicatoin links (if any)</li>
+<li>Statement of research experience and interests (max 3 pages)</li>
 <li>Transcripts for bachelor and master (if any), containing the list of courses and grades.</li>
-<li>Relevant publications (if any)</li>
 <li>Optional supproting documents: thesis, etc</li>
 </ul>
 

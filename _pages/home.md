@@ -65,19 +65,6 @@ Join the Lab
 
 
 
-My research focuses on understanding human locomotion and balance, and developing wearable robotic systems that enhance mobility, stability, and physical performance.
-
-I combine biomechanics, robotics, control theory, and human movement science to study how humans interact with assistive devices such as exoskeletons. My work aims to uncover the principles underlying human balance control and translate these insights into the design of intelligent robotic systems that understand and support human movement with the same sensitivity and adaptability that humans exhibit to maintain mobility in the real world. 
-
-Current research topics in the lab include:
-<ul>
-<li>Human balance quantification and perturbation-response analysis</li>
-<li>Real-time control of wearable robotic systems</li>
-<li>Human adaptation to robotic assistance</li>
-<li>Data-driven modeling of locomotion and stability</li>
-<li>Bio-inspired control strategies for exoskeletons</li>
-<li>Human-in-the-loop optimization and personalized assistance</li>
-</ul>
 
 
 

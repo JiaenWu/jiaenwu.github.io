@@ -121,7 +121,7 @@ My long-term goal is to advance intelligent assistive technologies that improve 
 <!-- ===================== SPONSORS ===================== -->
 {% if site.data.funders %}
 <div class="section-card">
-<h4>Sponsors</h4>
+<h4>Collaborator</h4>
 
 <div class="sponsor-logos" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: var(--space-6);">
 {% for funder in site.data.funders %}
