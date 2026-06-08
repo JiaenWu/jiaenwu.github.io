@@ -115,7 +115,12 @@ Prospective students are encouraged to contact me with a short CV and a brief de
 
 ## How to Apply
 
-Please email a single combined PDF upload (e.g., “YYYYMMDD_Lastname_Firstname.pdf”) containing:
+Please fill out the application form:
+<a href="https://forms.gle/rzgZQKBMJsyuTTgQ8" target="_blank" rel="noopener">
+  Application Form
+</a>.
+
+<strong>Required application materials</strong>
 
 <ul>
 <!-- <li>Cover letter (1 page)</li> -->
@@ -124,7 +129,5 @@ Please email a single combined PDF upload (e.g., “YYYYMMDD_Lastname_Firstname.
 <li>Transcripts for bachelor's and master's (if any), containing the list of courses and grades.</li>
 <li>Optional supporting documents: thesis, etc</li>
 </ul>
-
-Include “Join Application – [Your Name]” in the subject line.
 
 </div>
