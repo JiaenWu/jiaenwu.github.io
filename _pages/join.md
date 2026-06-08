@@ -118,7 +118,7 @@ Prospective students are encouraged to contact me with a short CV and a brief de
 Please email a single combined PDF upload (e.g., “YYYYMMDD_Lastname_Firstname.pdf”) containing:
 
 <ul>
-<li>Cover letter (1 page)</li>
+<!-- <li>Cover letter (1 page)</li> -->
 <li>CV including publication links (if any)</li>
 <li>Statement of research experience and interests (max 3 pages)</li>
 <li>Transcripts for bachelor's and master's (if any), containing the list of courses and grades.</li>
