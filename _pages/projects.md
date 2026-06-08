@@ -1,33 +1,96 @@
 ---
-title: "Projects"
+title: "Publications"
 layout: gridlay
 sitemap: false
-permalink: /projects/
+permalink: /publications/
 ---
 
-## Projects
+# Publications
 
-<div class="projects-intro">
+<!-- <div class="projects-intro">
 
-Our research develops intelligent robotic systems that enhance
+My research develops intelligent robotic systems that enhance
 human mobility, balance, and healthcare through biomechanics,
-wearable robotics, embedded sensing, and real-time human-robot interaction.
+wearable robotics, embedded sensing, and real-time human–robot interaction.
 
-This page highlights selected research platforms, experimental systems,
-and ongoing projects from our lab and previous collaborations.
+<!-- We combine robotics, sensing, AI, and human experiments to study
+human locomotion, neurological rehabilitation, balance control,
+and targeted therapeutic systems. -->
+
+
+<!-- </div> --> 
+
+---
+
+## Human-Robot Interaction 
+
+<div class="project-card">
+
+<div class="project-top">
+
+<div class="project-media">
+
+<video
+class="project-video-exo"
+autoplay
+muted
+loop
+playsinline>
+
+<source
+src="{{ site.url }}{{ site.baseurl }}/videos/projects/exo_walking.mp4"
+type="video/mp4">
+
+</video>
+
+</div>
+
+<div class="project-content">
+
+
+<ul class="project-details">
+<li>Adaptive exoskeleton torque control for varying assistance</li>
+
+<li>Perturbation experiments using wearable assistive robots</li>
+
+<li>Human–robot interaction identification during locomotion and balance recovery</li>
+
+<li>Fusion of musculoskeletal modeling and neural networks</li>
+
+<!-- <li>Human-in-the-loop optimization for wearable robotics</li>
+
+<li>Reinforcement learning for rapid exoskeleton personalization</li>
+
+<li>Real-time estimation of human biomechanical states</li>
+
+<li>Sensor fusion and embedded control for wearable systems</li>
+
+<li>Neuromechanical modeling of human locomotion</li>
+
+<li>Ultrasound-based evaluation of muscle–robot interaction</li> -->
+
+</ul>
+
+
+
+</div>
+
+</div>
 
 </div>
 
 ---
 
-## Wearable Robotics and Human Balance
+## Human Balance Assessment
 
 <div class="project-card">
+
+<div class="project-top">
 
 <div class="project-media">
 
 <video
-class="project-video-large"
+class="project-video-human"
 autoplay
 muted
 loop
@@ -39,38 +102,37 @@ type="video/mp4">
 
 </video>
 
-
 </div>
 
 <div class="project-content">
 
-<h3>Personalized Balance Assistance with Ankle Exoskeletons</h3>
-
-<p class="project-summary">
-
-Development of wearable robotic systems that provide adaptive
-balance assistance during walking and perturbation recovery.
-This work combines biomechanics, real-time control,
-human-in-the-loop optimization, and experimental gait analysis.
-
-</p>
 
 <ul class="project-details">
-<li>Human balance assessment and perturbation experiments</li>
-<li>Real-time embedded control systems</li>
-<li>Adaptive torque assistance strategies</li>
-<li>Human-robot interaction modeling</li>
+
+<li>Quantitative assessment of human balance capability</li>
+
+<li>Perturbation Recovery Time metric for detecting subtle balance impairments</li>
+
+<li>Biomechanics dataset under staedy-state and perturbed walking conditions</li>
+
+<li>Biomechanical feature discovery for balance characterization</li>
+
+
 </ul>
 
-<div class="project-links">
+</div>
 
-<a href="/research/" class="project-button">
-Research Direction
-</a>
+</div>
 
-<a href="/publications/" class="project-button-secondary">
-Related Publications
-</a>
+<div class="project-publications">
+
+<h4 class="pub-section-title">
+Selected Publications
+</h4>
+
+<div class="publication-list">
+
+{% bibliography --query @*[keywords~=balance] %}
 
 </div>
 
@@ -83,6 +145,8 @@ Related Publications
 ## Neurological Gait Rehabilitation
 
 <div class="project-card">
+
+<div class="project-top">
 
 <div class="project-media-grid">
 
@@ -174,35 +238,42 @@ Patient 2 — Haptic Feedback ON
 
 <div class="project-content">
 
-<h3>Wearable Systems for Pathological Gait Monitoring</h3>
-
-<p class="project-summary">
-
-Development of wearable sensing and embedded AI systems for
-real-time monitoring and rehabilitation of pathological gait.
-The platform integrates inertial sensing, gait phase detection,
-and rhythmic haptic feedback to improve locomotion stability
-and reduce freezing of gait (FoG) episodes in Parkinson’s disease.
-
-</p>
-
 <ul class="project-details">
-<li>Embedded AI for gait analysis</li>
-<li>Real-time gait phase detection</li>
-<li>Wearable sensing and feedback systems</li>
-<li>Haptic cueing for Parkinsonian gait rehabilitation</li>
-<li>Clinical evaluation in real-world walking tasks</li>
+
+<li>High-fidelity wearable sensing and acutation systems for real-world gait monitoring</li>
+
+<li>Embedded AI for real-time gait analysis, including motion classification and phase detection</li>
+
+<li>Automated, human-level gait labeling without manual annotation</li>
+
+<li>Lightweight real-time inference on low-power embedded microcontrollers</li>
+
+<li>Closed-loop haptic feedback for pathological gait rehabilitation</li>
+
+<!-- <li>Commercialized as a certified medical device with Magnes AG</li>
+
+<li>Deployed in European hospitals including University Hospital Zurich and CHUV Lausanne</li>
+
+<li>Recognized by Swiss AI Awards, Swiss Excellence Product Award, and CSS Innovation in Health</li>
+
+<li>Featured among “Top 10 Parkinson’s Stories of 2024” by Parkinson’s News Today</li> -->
+
 </ul>
 
-<div class="project-links">
 
-<a href="/research/" class="project-button">
-Research Direction
-</a>
+</div>
 
-<a href="/publications/" class="project-button-secondary">
-Related Publications
-</a>
+</div>
+
+<div class="project-publications">
+
+<h4 class="pub-section-title">
+Selected Publications
+</h4>
+
+<div class="publication-list">
+
+{% bibliography --query @*[keywords~=rehab] %}
 
 </div>
 
@@ -212,9 +283,11 @@ Related Publications
 
 ---
 
-## Microrobotics and Targeted Therapy
+## Microrobotics for Targeted Therapy
 
 <div class="project-card">
+
+<div class="project-top">
 
 <div class="project-media">
 
@@ -231,38 +304,75 @@ type="video/mp4">
 
 </video>
 
-
-
 </div>
 
 <div class="project-content">
 
-<h3>Microrobotic Systems for Targeted Therapy</h3>
 
-<p class="project-summary">
+<!-- <p class="project-summary">
 
-Design of magnetic microrobotic systems capable of precise
+Development of magnetic microrobotic systems capable of precise
 navigation in complex biological environments for localized
 medical intervention and targeted therapeutic delivery.
 
-</p>
+</p> -->
+
+
 
 <ul class="project-details">
-<li>Magnetic actuation and control</li>
-<li>Microscale robotic navigation</li>
-<li>Bio-inspired robotic motion</li>
-<li>Targeted therapeutic applications</li>
+<li>Magnetically actuated microrobotic system for precise navigation in complex biological environments</li>
+<li>Adaptive soft-hinged design enabling controllable gait modulation under external fields</li>
+<li>Real-time dynamic modeling to predict and compensate stochastic microscale motion</li>
+<li>pH-responsive drug delivery for localized and targeted therapeutic release</li>
+<li>Bio-inspired control strategies for reliable microrobot guidance in fluid environments</li>
 </ul>
 
-<div class="project-links">
+</div>
 
-<a href="/research/" class="project-button">
-Research Direction
-</a>
+</div>
 
-<a href="/publications/" class="project-button-secondary">
-Related Publications
-</a>
+<div class="project-publications">
+
+<h4 class="pub-section-title">
+Selected Publications
+</h4>
+
+<div class="publication-list">
+
+{% bibliography --query @*[keywords~=microrobot] %}
+
+</div>
+
+</div>
+
+</div>
+
+<!-- --- -->
+
+## Automatic Control
+
+<div class="project-card">
+
+<div class="project-content">
+
+<ul class="project-details">
+<li>Advanced control strategies for robotic and mechatronic systems</li>
+<li>Model-based system identification and control synthesis</li>
+<li>Adaptive and robust control for uncertain and time-varying dynamics</li>
+</ul>
+
+</div>
+
+
+<div class="project-publications">
+
+<h4 class="pub-section-title">
+Selected Publications
+</h4>
+
+<div class="publication-list">
+
+{% bibliography --query @*[keywords~=control] %}
 
 </div>
 
@@ -272,20 +382,36 @@ Related Publications
 
 ---
 
-## Experimental Platforms
 
-<div class="section-card">
+## Intelligent Sensing Systems
 
-<h3>Research Platforms and Experimental Systems</h3>
+<div class="project-card">
 
-<ul class="platform-list">
-<li>Wearable ankle exoskeleton systems</li>
-<li>Balance perturbation treadmill platform</li>
-<li>Human gait biomechanics experiments</li>
-<li>Embedded sensing and control systems</li>
-<li>Real-time human-in-the-loop optimization</li>
-<li>Microrobotic actuation platforms</li>
+<div class="project-content">
+
+<ul class="project-details">
+<li>Flexible sensing platforms</li>
+<li>Reconfigurable manipulation interfaces</li>
+<li>Reactive material systems</li>
 </ul>
 
 </div>
 
+
+<div class="project-publications">
+
+<h4 class="pub-section-title">
+Selected Publications
+</h4>
+
+<div class="publication-list">
+
+{% bibliography --query @*[keywords~=others] %}
+
+</div>
+
+</div>
+
+</div>
+
+---

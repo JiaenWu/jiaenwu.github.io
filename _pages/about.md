@@ -25,7 +25,7 @@ permalink: /about/
 
 Jiaen Wu is a Postdoctoral Fellow in Mechanical Engineering at Stanford University, advised by Steve Collins. She received her Ph.D. degree from ETH Zürich in 2022, where she conducted research in the Multi-Scale Robotics Lab with Bradley Nelson on small-scale robotics and wearable systems. She earned her bachelor’s degree in Control Engineering from Zhejiang University in 2017. 
 
-Her research pioneers intelligent systems that restore and enhance human mobility through integrating wearable robotics, biomechanics, and human-centered AI. She develops next-generation assistive technologies, ranging from gait rehabilitation systems to balance-augmenting exoskeletons that perceive user intent, respond to dynamic environments, and actively improve human mobility. 
+Her research pioneers intelligent systems that restore and enhance human mobility through wearable robotics, biomechanics, and human-centered AI. She develops next-generation assistive technologies, ranging from gait rehabilitation systems to balance-augmenting exoskeletons that perceive user intent, respond to dynamic environments, and actively improve human mobility. 
 
 Her contribution has been translated into a certified medical device and recognized with multiple awards, including the Swiss AI Awards (2nd place, 2022) and the finalist for the Swiss Excellence Product Award (2022). Her work was featured among the “Top 10 Parkinson’s stories of 2024” by Parkinson’s News Today. She is also an MIT Rising Star in Mechanical Engineering (2025) and a Wu Tsai Human Performance Alliance Distinguished Postdoctoral Fellow at Stanford University.
 

@@ -1,362 +1,342 @@
 /* =========================================================
-   Projects Page
+   Intro
 ========================================================= */
 
 .projects-intro {
-  max-width: 950px;
+
+  font-size: 1.05rem;
+
   line-height: 1.9;
-  margin-bottom: 2rem;
+
   color: var(--text-secondary);
-}
-
-/* -------------------------
-   Project card
-------------------------- */
-
-.project-card {
-  display: grid;
-
-  grid-template-columns:
-    minmax(320px, 420px)
-    1fr;
-
-  gap: 2rem;
 
   margin-bottom: 3rem;
 
-  padding: 1.8rem;
+  width: 100%
+}
 
-  border-radius: 20px;
+/* =========================================================
+   Main project card
+========================================================= */
 
-  background:
-    linear-gradient(
-      160deg,
-      var(--bg-card),
-      var(--bg-secondary)
-    );
+.project-card {
+
+  background: var(--bg-card);
 
   border: 1px solid var(--border-color);
+
+  border-radius: 24px;
+
+  padding: 2rem;
+
+  margin-bottom: 4rem;
+
+  overflow: hidden;
+
+  box-shadow: var(--shadow-sm);
+}
+
+/* =========================================================
+   Top area
+========================================================= */
+
+.project-top {
+
+  display: grid;
+
+  grid-template-columns: 1.1fr 1fr;
+
+  gap: 2rem;
 
   align-items: center;
 }
 
-/* -------------------------
-   Media
-------------------------- */
+/* =========================================================
+   Videos
+========================================================= */
+.project-video-exo {
 
-.project-media img {
-  width: 100%;
-  // height: 280px;
+  width: 70%;
 
-  object-fit: cover;
+  // height: 300px;
+
+  aspect-ratio:auto;
+
+  object-fit: contain;
+
+  background: transparent;
 
   border-radius: 16px;
-}
-
-/* -------------------------
-   Video
-------------------------- */
-
-.video-container {
-  position: relative;
-
-  width: 100%;
-
-  padding-bottom: 56.25%;
-
-  overflow: hidden;
-
-  border-radius: 16px;
-}
-
-.video-container iframe {
-  position: absolute;
-
-  top: 0;
-  left: 0;
-
-  width: 100%;
-  height: 100%;
-}
-
-/* -------------------------
-   Text
-------------------------- */
-
-.project-content h3 {
-  margin-top: 0;
-  margin-bottom: 1rem;
-
-  font-size: 1.5rem;
-}
-
-.project-summary {
-  line-height: 1.85;
-  color: var(--text-secondary);
-
-  margin-bottom: 1rem;
-}
-
-.project-details {
-  padding-left: 1.2rem;
-
-  margin-bottom: 1.5rem;
-}
-
-.project-details li {
-  margin-bottom: 0.5rem;
-}
-
-/* -------------------------
-   Buttons
-------------------------- */
-
-.project-links {
-  display: flex;
-  flex-wrap: wrap;
-
-  gap: 1rem;
-}
-
-.project-button,
-.project-button-secondary {
-  display: inline-block;
-
-  padding: 0.7rem 1.2rem;
-
-  border-radius: 999px;
-
-  text-decoration: none;
-
-  transition: all 0.2s ease;
-}
-
-.project-button {
-  background: var(--global-theme-color);
-  color: white !important;
-}
-
-.project-button-secondary {
-  border: 1px solid var(--border-color);
-  color: var(--text-primary);
-}
-
-.project-button:hover,
-.project-button-secondary:hover {
-  transform: translateY(-2px);
-}
-
-/* -------------------------
-   Platform list
-------------------------- */
-
-.platform-list li {
-  margin-bottom: 0.6rem;
-}
-
-/* -------------------------
-   Responsive
-------------------------- */
-
-@media (max-width: 900px) {
-
-  .project-card {
-    grid-template-columns: 1fr;
-  }
-
+  margin-left: 10%; 
+  margin-right: auto;
 }
 
 
-
-/* =========================================================
-   GIF comparison grid
-========================================================= */
-
-.project-media-grid {
-
-  display: grid;
-
-  grid-template-columns: repeat(2, 1fr);
-
-  gap: 1rem;
-
-  margin-bottom: 1.5rem;
-}
-
-/* -------------------------
-   GIF panel
-------------------------- */
-
-.gif-panel {
-
-  background: var(--bg-card);
-
-  border: 1px solid var(--border-color);
-
-  border-radius: 16px;
-
-  overflow: hidden;
-}
-
-/* -------------------------
-   GIF image
-------------------------- */
-
-.gif-panel img {
-
-  width: 100%;
-
-  height: 220px;
-
-  object-fit: cover;
-
-  display: block;
-}
-
-/* -------------------------
-   Caption
-------------------------- */
-
-.gif-caption {
-
-  padding: 0.7rem 1rem;
-
-  font-size: 0.9rem;
-
-  text-align: center;
-
-  color: var(--text-secondary);
-
-  background: var(--bg-secondary);
-}
-
-/* -------------------------
-   Responsive
-------------------------- */
-
-@media (max-width: 700px) {
-
-  .project-media-grid {
-
-    grid-template-columns: 1fr;
-  }
-
-}
-
-
-
-/* =========================================================
-   Project videos
-========================================================= */
-
-.project-video,
-.project-video-large {
-
-  width: 100%;
-
-  background: black;
-
-  display: block;
-
-  border-radius: 16px;
-
-  object-fit: cover;
-}
-
-/* Small comparison videos */
-
-.project-video {
-
-  height: 240px;
-}
-
-/* Large project showcase videos */
-
-.project-video-large {
-
-  height: 320px;
-}
-
-/* =========================================================
-   Video comparison grid
-========================================================= */
-
-.project-media-grid {
-
-  display: grid;
-
-  grid-template-columns: repeat(2, 1fr);
-
-  gap: 1rem;
-
-  margin-bottom: 1.5rem;
-}
-
-.gif-panel {
-
-  background: var(--bg-card);
-
-  border: 1px solid var(--border-color);
-
-  border-radius: 16px;
-
-  overflow: hidden;
-}
-
-.gif-caption {
-
-  padding: 0.7rem 1rem;
-
-  font-size: 0.9rem;
-
-  text-align: center;
-
-  color: var(--text-secondary);
-
-  background: var(--bg-secondary);
-}
-
-/* =========================================================
-   Responsive
-========================================================= */
-
-@media (max-width: 700px) {
-
-  .project-media-grid {
-
-    grid-template-columns: 1fr;
-  }
-
-}
-
-
-/* =========================================================
-   Human gait / exoskeleton videos
-========================================================= */
 .project-video-human {
 
   width: 100%;
 
-  height: 420px;
+  aspect-ratio:auto;
 
   object-fit: cover;
+
+  background: black;
+
+  border-radius: 16px;
 }
-
-
-/* =========================================================
-   Microrobot videos
-========================================================= */
-
-
 
 .project-video-micro {
 
   width: 100%;
 
-  height: 280px;
+  aspect-ratio: auto;
+
+  height: 300px;
 
   object-fit: cover;
+
+  background: black;
+
+  border-radius: 16px;
 }
 
 
+.project-video {
 
+  width: 100%;
+
+  aspect-ratio: 4 / 3;
+
+  object-fit: cover;
+
+  background: black;
+
+  display: block;
+}
+
+/* =========================================================
+   Video grid
+========================================================= */
+
+.project-media-grid {
+
+  display: grid;
+
+  grid-template-columns: repeat(2, 1fr);
+
+  gap: 1rem;
+}
+
+.gif-panel {
+
+  border-radius: 16px;
+
+  overflow: hidden;
+
+  border: 1px solid var(--border-color);
+
+  background: var(--bg-card);
+}
+
+// .gif-caption {
+
+//   padding: 0.7rem;
+
+//   text-align: center;
+
+//   font-size: 0.9rem;
+
+//   color: var(--text-secondary);
+
+//   background: var(--bg-secondary);
+// }
+.gif-caption {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+
+  padding: 0.7rem;
+  text-align: center;
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  background: var(--bg-secondary);
+}
+
+.gif-panel video.project-video {
+  display: block;
+  width: 100%;
+}
+/* =========================================================
+   Content
+========================================================= */
+
+.project-content h3 {
+
+  margin-top: 0;
+
+  margin-bottom: 1rem;
+}
+
+.project-summary {
+
+  line-height: 1.8;
+
+  color: var(--text-secondary);
+
+  margin-bottom: 1.5rem;
+}
+
+.project-details {
+
+  margin-top: 1rem;
+
+  margin-bottom: 0.75rem;/* add this to tighten before publications */
+
+  padding-left: 1.2rem;
+}
+
+.project-details li {
+
+  margin-bottom: 0.5rem;
+
+  color: var(--text-secondary);
+}
+
+/* =========================================================
+   Tech tags
+========================================================= */
+
+.tech-tags {
+
+  display: flex;
+
+  flex-wrap: wrap;
+
+  gap: 0.6rem 1.2rem;   /* row-gap column-gap (vertical, horizontal) */
+
+  margin-bottom: 1.5rem;
+}
+
+
+.tech-tags span {
+
+  background: var(--bg-secondary);
+
+  color: var(--text-primary);
+
+  border: 1px solid var(--border-color);
+
+  padding: 0.35rem 0.8rem;
+
+  border-radius: 999px;
+
+  font-size: 0.82rem;
+
+  font-weight: 500;
+}
+
+/* =========================================================
+   Publications inside card
+========================================================= */
+
+.project-publications {
+
+  margin-top: 1.1rem;
+
+  width: 100%;
+
+  padding-top: 1rem;
+
+  border-top: 1px solid var(--border-color);
+}
+
+.project-publications .publication-list { 
+  width: 100%; }
+
+.pub-section-title {
+
+  margin-bottom: 1.0rem;
+}
+
+/* Projects page: make bibliography use full card width */
+.project-publications .publication-list,
+.project-publications .publication-list ol.bibliography,
+.project-publications .publication-list ol.bibliography > li,
+.project-publications .publication-list .pub-entry {
+  width: 100%;
+  max-width: none;
+  // padding-left: 1.2rem;
+}
+
+/* Remove extra indentation/marker spacing inside project cards */
+.project-publications .publication-list ol.bibliography {
+  margin: 0;
+  padding-left: 0;     /* remove list indent */
+  list-style: none;    /* remove numbers/bullets */
+  // padding-left: 1.2rem;
+}
+
+/* Ensure the reference line uses full width */
+.project-publications .publication-list .pub-entry .text-justify {
+  width: 100%;
+}
+
+/* Optional: if .text-justify is doing something odd */
+.project-publications .publication-list .text-justify {
+  text-align: left;    /* instead of justify, which can look like gaps */
+}
+
+/* Bullets with smaller left indent (Projects page only) */
+.project-publications .publication-list ol.bibliography {
+  list-style: disc;
+  list-style-position: outside; /* default, keeps marker in gutter */
+  padding-left: 0.9rem;         /* was 1.2rem; tweak smaller */
+  margin: 0;
+}
+
+/* Tighten spacing between references */
+.project-publications .publication-list .pub-entry {
+  padding: 0.75rem 0;           /* was var(--space-6) 0 */
+  margin: 0;
+}
+
+/* Tighten space between "Selected Publications" and the list */
+.project-publications .pub-section-title {
+  margin-bottom: 0.75rem;       /* was 1.5rem */
+}
+
+.project-publications .publication-list .pub-actions {
+  margin-top: 0.1rem;           /* was var(--space-3) */
+}
+
+/* =========================================================
+   Responsive
+========================================================= */
+
+@media (max-width: 900px) {
+
+  .project-top {
+
+    grid-template-columns: 1fr;
+  }
+
+  .project-media-grid {
+
+    grid-template-columns: 1fr;
+  }
+
+}
+
+.project-media-grid .gif-caption {
+  width: 100%;
+  display: block;
+  clear: both;
+}
+
+.project-media-grid .gif-panel {
+  background: var(--bg-secondary);
+}
+
+.project-media-grid .gif-caption {
+  background: transparent;  /* so it uses the panel background */
+}

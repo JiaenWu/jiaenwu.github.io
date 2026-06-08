@@ -4,6 +4,7 @@
 
 .pub-entry {
   padding: var(--space-6) 0;
+  width: 100%;
   border-bottom: 1px solid var(--border-color);
   position: relative;
 
@@ -143,10 +144,12 @@
   list-style: none;      /* remove 1,2,3... */
   padding-left: 1.2rem;  /* space for bullet */
   margin-left: 0;
+  width: 100%;
 }
 
 .publications ol > li {
   position: relative;
+  width: 100%;
 }
 
 .publications ol > li::before {
@@ -155,14 +158,33 @@
   left: -1.2rem;
   top: 0.15em;           /* adjust vertical alignment */
   color: var(--text-muted);
+  width: 100%;
 }
 
 /* Turn jekyll-scholar numbered list into bullets */
 ol.bibliography {
   list-style: disc;
   padding-left: 1.2rem;
+  width: 100%;
 }
 
 ol.bibliography > li {
   display: list-item;
+  width: 100%;
+}
+
+#pubList ol.bibliography,
+#pubList ol.bibliography > li {
+  width: 100%;
+  max-width: none;
+}
+
+#pubList.section-card {
+  width: 100%;
+  max-width: none;
+}
+
+#pubList.section-card {
+  // padding-left: var(--space-10);
+  padding-right: var(--space-10);
 }

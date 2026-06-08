@@ -1,8 +1,8 @@
 ---
-title: "Publications"
+title: "Publications_list"
 layout: gridlay
 sitemap: false
-permalink: /publications/
+permalink: /publications_list/
 ---
 
 ## Publications
