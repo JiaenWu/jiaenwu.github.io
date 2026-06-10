@@ -6,6 +6,9 @@ permalink: /publications/
 ---
 
 # Publications
+<div style="padding:12px;border:2px solid red;">
+  DEBUG: page loaded
+</div>
 
 ---
 
@@ -22,7 +25,8 @@ class="project-video-exo"
 autoplay
 muted
 loop
-playsinline>
+playsinline
+preload="metadata">
 
 <source
 src="{{ site.url }}{{ site.baseurl }}/videos/projects/exo_walking.mp4"
@@ -69,7 +73,8 @@ class="project-video-human"
 autoplay
 muted
 loop
-playsinline>
+playsinline
+preload="metadata">
 
 <source
 src="{{ site.url }}{{ site.baseurl }}/videos/projects/MovieS3.mp4"
@@ -132,7 +137,8 @@ class="project-video"
 autoplay
 muted
 loop
-playsinline>
+playsinline
+preload="metadata">
 
 <source
 src="{{ site.url }}{{ site.baseurl }}/videos/projects/patient1_off.mp4"
@@ -153,7 +159,8 @@ class="project-video"
 autoplay
 muted
 loop
-playsinline>
+playsinline
+preload="metadata">
 
 <source
 src="{{ site.url }}{{ site.baseurl }}/videos/projects/patient1_on.mp4"
@@ -174,7 +181,8 @@ class="project-video"
 autoplay
 muted
 loop
-playsinline>
+playsinline
+preload="metadata">
 
 <source
 src="{{ site.url }}{{ site.baseurl }}/videos/projects/patient2_off.mp4"
@@ -195,7 +203,8 @@ class="project-video"
 autoplay
 muted
 loop
-playsinline>
+playsinline
+preload="metadata">
 
 <source
 src="{{ site.url }}{{ site.baseurl }}/videos/projects/patient2_on.mp4"
@@ -264,7 +273,8 @@ class="project-video-micro"
 autoplay
 muted
 loop
-playsinline>
+playsinline
+preload="metadata">
 
 <source
 src="{{ site.url }}{{ site.baseurl }}/videos/projects/microrobot.mp4"
