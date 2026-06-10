@@ -23,10 +23,6 @@ We welcome applications from:
 <li><strong>Visiting scholars</strong></li>
 </ul>
 
-<!-- Ideal candidates have strong backgrounds in one or more of the following:
-robotics, controls, biomechanics, machine learning, embedded systems, or human movement science.
-Prior experience in experimental robotics or human subject studies is a plus. -->
-
 
 </div>
 
@@ -49,9 +45,10 @@ Current research themes include:
 <li>Bio-inspired control for assistive and rehabilitative devices</li>
 </ul>
 
-
 </div>
 
+
+<!-- ===================== WHO THRIVES HERE ===================== -->
 
 <div class="section-card">
 
@@ -64,36 +61,36 @@ I am looking for **self-motivated, curious, resilient, and hands-on** researcher
 <ul>
   <li><strong>Ask good questions</strong>: You don't just execute, you think about <em>why</em>, not only <em>how</em>.</li>
   <li><strong>Enjoy building things</strong>: Whether code, hardware, experiments, or prototypes, you like making.</li>
-  <li><strong>Embrace failure</strong>: You see dead ends as data, not defeat .</li>
+  <li><strong>Comfort with failure</strong>: You see dead ends as data, not defeat .</li>
   <li><strong>Communicate clearly</strong>: You can explain your work to both experts and non-experts, in writing and in discussion.</li>
 </ul>
 
 
 ### Helpful backgrounds (not all required):
 
-<!-- - Bachelor's or Master's in Engineering (e.g., ME, BME, MSE, EE, etc), robotics, computer science, mathematics, or other related fileds.
-- Some research experience (thesis, project, or industry R&D) (not required if you show exceptional potential)
-- Basic programming or experimental skills (*Missing some skills? That's fine. We can teach the rest, I care more about your ability to learn than your existing toolkit.* ) --> 
 <ul>
-  <li><strong>Training</strong>: Bachelor's or Master's in engineering (e.g., ME/BME/MSE/EE), robotics, computer science, mathematics, or related fields.</li>
-  <li><strong>Experience</strong>: Research exposure (thesis, projects, or industry R&amp;D). Exceptional potential can substitute for prior research experience.</li>
-  <li><strong>Skills</strong>: Basic programming and/or experimental skills. <em>Missing some skills? That's fine, we can teach the rest.</em></li>
+  <li><strong>Training</strong>: Bachelor's or Master's in engineering (e.g., MAE/BME/EE), robotics, computer science, mathematics, or related fields.</li>
+  <li><strong>Experience</strong>: Prior research through thesis, projects, or industry R&amp;D. Not necessary  if you show exceptional potential.</li>
+  <li><strong>Skills</strong>: Basic programming (e.g., Python, MATLAB, C, or C++) and/or experimental skills. <em>Missing some skills? We can teach the rest.</em></li>
 </ul>
 
-
-### What I do <em>not</em> expect
-<ul>
-  <li>A perfect GPA or a long publication list</li>
-  <li>You to know everything before you start</li>
-  <li>Unsustainable work hours (consistency matters more than burnout)</li>
-</ul>
 
 ### What I value most
 <ul>
   <li><strong>Ownership</strong>: You take responsibility for moving your project forward.</li>
-  <li><strong>Healthy debugging habits</strong>: You ask for help when stuck—early and often.</li>
+  <li><strong>Independence</strong>: You drive the day-to-day execution: exploring, trying, failing, learning. You attempt solutions first, then we troubleshoot together.</li>
   <li><strong>Good documentation</strong>: You write things down so future-you (and your teammates) can build on your work.</li>
   <li><strong>Growth mindset</strong>: You celebrate small wins and learn quickly from failures.</li>
+</ul>
+
+
+### What matters less than you think
+
+<ul>
+  <li>A perfect GPA: I care more about whether you understand the fundamentals</li>
+  <li>A long publication list: I care more about whether you can finish what you start</li>
+  <li>Knowing everything before day one: I expect to guide you, that's my job</li>
+  <li>80-hour work weeks: sustainability and consistency matters more than burnout</li>
 </ul>
 
 <blockquote>
@@ -105,7 +102,49 @@ I am looking for **self-motivated, curious, resilient, and hands-on** researcher
 
 <em>I welcome applicants from all backgrounds. If you are unsure whether you fit, please reach out! A quick email is better than self-selecting out.</em>
 
+</div>
 
+<!-- ===================== WHAT I OFFER ===================== -->
+
+<div class="section-card">
+
+## What I Offer
+
+### Supervision & Mentorship
+
+<ul>
+  <li><strong>Active mentorship</strong>: Hands-on help with research, writing, and presentation, especially in your first year.</li>
+  <li><strong>Clear expectations</strong>: Transparent milestones and honest feedback. No guesswork about where you stand.</li>
+  <li><strong>Career support</strong>: I support your goals, whether academia or industry, through networking, collaboration, and tailored advice.</li>
+  <!-- <li><strong>Publication support</strong>: I help you target appropriate journals and conferences, revise manuscripts, and navigate peer review.</li> -->
+</ul>
+
+
+### Lab & Resources
+
+<ul>
+  <li><strong>State-of-the-art facilities</strong>: Access to NTU's robotics labs, motion capture systems, wearable sensor platforms, and mechanical testing equipment.</li>
+  <li><strong>Computational resources</strong>: High-performance computing cluster and GPU servers for data-driven modeling and simulation.</li>
+  <li><strong>Collaborative environment</strong>: Opportunities to work with clinicians, industry partners, and international research groups.</li>
+</ul>
+
+### Why NTU MAE (Singapore)?
+
+<ul>
+  <li><strong>World-class ranking</strong>: NTU consistently ranks among the top universities globally (ranked 4th in the world (QS Subject ranking 2025)). MAE is one of NTU's flagship engineering schools.</li>
+  <li><strong>Cutting-edge research</strong>: Strong expertise in robotics, control, biomechanics, and human-machine systems.</li>
+  <li><strong>Generous funding</strong>: Competitive PhD scholarships (RSS, NPGS, A*STAR) with living stipends that allow you to focus on research.</li>
+  <li><strong>Global hub</strong>: Singapore is a vibrant, safe, and multicultural city, a gateway to Asia and a thriving innovation hub for engineering and technology.</li>
+  <li><strong>Industry connections</strong>: Proximity to leading companies and research institutes (e.g., A*STAR, DSO, local robotics startups) offers internship and collaboration opportunities.</li>
+</ul>
+
+<blockquote>
+  <p><em> I remember what it was like to start a PhD — the excitement, the uncertainty, the late nights. 
+    I will not promise you an easy journey, but I promise you will not walk it alone. 
+    My success is defined by yours. When you publish well, graduate on time, and launch the career you want, that is my reward.</em></p>
+</blockquote>
+
+</div>
 
 
 <!-- ### Essential Qualities
@@ -152,7 +191,6 @@ I do **not** expect you to know everything on day one. What I do expect is:
 <!-- *I welcome applicants from all backgrounds. If you are unsure whether you fit, please reach out — a quick email is better than self-selecting out:)* -->
 
 
-</div>
 
 
 
@@ -163,13 +201,6 @@ I do **not** expect you to know everything on day one. What I do expect is:
 ## Funding and Scholarships (Graduate Students)
 
 ### PhD Scholarships
-
-<!-- <ul>
-<li><strong>A*STAR Graduate Scholarship</strong> — full PhD funding for international students</li>
-<li><strong>Nanyang President’s Graduate Scholarship</strong> — up to 4 years PhD coverage</li>
-<li><strong>NTU Research Scholarship</strong> — up to 4 years PhD coverage</li>
-<li><strong>Lee Kuan Yew Scholarship</strong> — Masters (up to 2 years) or PhD (up to 5 years), Singapore citizens only</li>
-</ul> -->
 
 <ul>
     <li><strong><a href="https://www.ntu.edu.sg/nie/admissions/graduate-education/scholarships-awards/nanyang-technological-university-research-scholarship" target="_blank" rel="noopener">NTU Research Scholarship</a></strong> — up to 4 years PhD coverage</li>
