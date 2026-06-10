@@ -327,6 +327,32 @@
 
 }
 
+@media (max-width: 900px) {
+  .project-card,
+  .project-top,
+  .project-media,
+  .project-content {
+    overflow: visible;
+  }
+}
+@media (max-width: 900px) {
+  .project-video,
+  .project-video-human,
+  .project-video-exo,
+  .project-video-micro {
+    height: auto;
+    min-height: 180px;   /* ensures the box is visible */
+  }
+}
+/* Mobile Safari/grid safety: allow grid children to shrink */
+.project-top > *,
+.project-media-grid > * {
+  min-width: 0;
+}
+.project-card {
+  min-width: 0;
+}
+
 .project-media-grid .gif-caption {
   width: 100%;
   display: block;
