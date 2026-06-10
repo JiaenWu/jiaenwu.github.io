@@ -123,24 +123,25 @@ I am looking for **self-motivated, curious, resilient, and hands-on** researcher
 ### Lab & Resources
 
 <ul>
-  <li><strong>State-of-the-art facilities</strong>: Access to NTU's robotics labs, motion capture systems, wearable sensor platforms, and mechanical testing equipment.</li>
-  <li><strong>Computational resources</strong>: High-performance computing cluster and GPU servers for data-driven modeling and simulation.</li>
-  <li><strong>Collaborative environment</strong>: Opportunities to work with clinicians, industry partners, and international research groups.</li>
+  <li><strong>Facilities</strong>: Access to NTU's robotics labs, motion capture systems, wearable sensor platforms, and mechanical testing equipment.</li>
+  <li><strong>Computation</strong>: High-performance computing and GPU resources for data-driven modeling and simulation.</li>
+  <li><strong>Collaboration</strong>: Opportunities to work with clinicians, industry partners, and top international groups.</li>
 </ul>
 
 ### Why NTU MAE (Singapore)?
 
 <ul>
-  <li><strong>World-class ranking</strong>: NTU consistently ranks among the top universities globally (ranked 4th in the world (QS Subject ranking 2025)). MAE is one of NTU's flagship engineering schools.</li>
-  <li><strong>Cutting-edge research</strong>: Strong expertise in robotics, control, biomechanics, and human-machine systems.</li>
-  <li><strong>Generous funding</strong>: Competitive PhD scholarships (RSS, NPGS, A*STAR) with living stipends that allow you to focus on research.</li>
-  <li><strong>Global hub</strong>: Singapore is a vibrant, safe, and multicultural city, a gateway to Asia and a thriving innovation hub for engineering and technology.</li>
-  <li><strong>Industry connections</strong>: Proximity to leading companies and research institutes (e.g., A*STAR, DSO, local robotics startups) offers internship and collaboration opportunities.</li>
+  <li><strong>Top-ranked engineering</strong>: NTU is consistently ranked among the world's top universities (e.g., QS Subject Rankings 2025: #4 in Mechanical Engineering).</li>
+  <!-- <li><strong>Cutting-edge research</strong>: Strong expertise in robotics, control, biomechanics, and human-machine systems.</li> -->
+  <li><strong>Generous funding</strong>: Competitive PhD scholarships (e.g., RSS, NPGS, A*STAR) with living stipends that allow you to focus on research.</li>
+  <li><strong>Global hub</strong>: Singapore is a safe, vibrant, and multicultural city.</li>
+  <li><strong>Industry  & institutes</strong>: Close links to leading companies and research institutes (e.g., A*STAR, Google, Seed, local robotics startups) for internship and collaboration.</li>
 </ul>
 
 <blockquote>
-  <p><em> I remember what it was like to start a PhD — the excitement, the uncertainty, the late nights. 
-    I will not promise you an easy journey, but I promise you will not walk it alone. 
+  <p><em>
+    I remember what it was like to start a PhD, the excitement, the uncertainty, the late nights. 
+    I wont't promise you an easy journey, but you will not walk it alone. 
     My success is defined by yours. When you publish well, graduate on time, and launch the career you want, that is my reward.</em></p>
 </blockquote>
 
