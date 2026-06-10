@@ -68,12 +68,12 @@ I am looking for **self-motivated, curious, resilient, and hands-on** researcher
   <li><strong>Communicate clearly</strong>: You can explain your work to both experts and non-experts, in writing and in discussion.</li>
 </ul>
 
-<!-- 
+
 ### Helpful backgrounds (not all required):
 
-- Bachelor's or Master's in Engineering (e.g., ME, BME, MSE, EE, etc), robotics, computer science, mathematics, or other related fileds.
+<!-- - Bachelor's or Master's in Engineering (e.g., ME, BME, MSE, EE, etc), robotics, computer science, mathematics, or other related fileds.
 - Some research experience (thesis, project, or industry R&D) (not required if you show exceptional potential)
-- Basic programming or experimental skills (*Missing some skills? That's fine. We can teach the rest, I care more about your ability to learn than your existing toolkit.* ) -->
+- Basic programming or experimental skills (*Missing some skills? That's fine. We can teach the rest, I care more about your ability to learn than your existing toolkit.* ) --> -->
 <ul>
   <li><strong>Training</strong>: Bachelor's or Master's in engineering (e.g., ME/BME/MSE/EE), robotics, computer science, mathematics, or related fields.</li>
   <li><strong>Experience</strong>: Research exposure (thesis, projects, or industry R&amp;D). Exceptional potential can substitute for prior research experience.</li>
