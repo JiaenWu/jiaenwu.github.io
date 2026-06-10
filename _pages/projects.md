@@ -7,19 +7,6 @@ permalink: /publications/
 
 # Publications
 
-<!-- <div class="projects-intro">
-
-My research develops intelligent robotic systems that enhance
-human mobility, balance, and healthcare through biomechanics,
-wearable robotics, embedded sensing, and real-time human–robot interaction.
-
-<!-- We combine robotics, sensing, AI, and human experiments to study
-human locomotion, neurological rehabilitation, balance control,
-and targeted therapeutic systems. -->
-
-
-<!-- </div> --> 
-
 ---
 
 ## Human-Robot Interaction 
@@ -56,18 +43,6 @@ type="video/mp4">
 <li>Human–robot interaction identification during locomotion and balance recovery</li>
 
 <li>Fusion of musculoskeletal modeling and neural networks</li>
-
-<!-- <li>Human-in-the-loop optimization for wearable robotics</li>
-
-<li>Reinforcement learning for rapid exoskeleton personalization</li>
-
-<li>Real-time estimation of human biomechanical states</li>
-
-<li>Sensor fusion and embedded control for wearable systems</li>
-
-<li>Neuromechanical modeling of human locomotion</li>
-
-<li>Ultrasound-based evaluation of muscle–robot interaction</li> -->
 
 </ul>
 
@@ -250,13 +225,6 @@ Patient 2 — Haptic Feedback ON
 
 <li>Closed-loop haptic feedback for pathological gait rehabilitation</li>
 
-<!-- <li>Commercialized as a certified medical device with Magnes AG</li>
-
-<li>Deployed in European hospitals including University Hospital Zurich and CHUV Lausanne</li>
-
-<li>Recognized by Swiss AI Awards, Swiss Excellence Product Award, and CSS Innovation in Health</li>
-
-<li>Featured among “Top 10 Parkinson’s Stories of 2024” by Parkinson’s News Today</li> -->
 
 </ul>
 
@@ -309,15 +277,6 @@ type="video/mp4">
 <div class="project-content">
 
 
-<!-- <p class="project-summary">
-
-Development of magnetic microrobotic systems capable of precise
-navigation in complex biological environments for localized
-medical intervention and targeted therapeutic delivery.
-
-</p> -->
-
-
 
 <ul class="project-details">
 <li>Magnetically actuated microrobotic system for precise navigation in complex biological environments</li>
@@ -347,7 +306,6 @@ Selected Publications
 
 </div>
 
-<!-- --- -->
 
 ## Automatic Control
 
