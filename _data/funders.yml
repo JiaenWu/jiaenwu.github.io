@@ -4,11 +4,13 @@
 
 # EXAMPLE -- replace or delete
 
-- image: /sponsors/LaboratoryLogo.png
+- image: /sponsors/Stanford_Biomechatronics.png
   url: https://biomechatronics.stanford.edu
 - image: /sponsors/ETHZ.png
   url: https://msrl.ethz.ch
-- image: /sponsors/MSRL.svg
+- image: /sponsors/MSRL-nobg.svg
   url: https://msrl.ethz.ch
 - image: /sponsors/Wu_Tsai_Human_Performance_Alliance_Logo_Full_Color_RGB.png
   url: https://humanperformance.stanford.edu
+- image: /sponsors/ZJU.png
+  url: https://www.zju.edu.cn/english/

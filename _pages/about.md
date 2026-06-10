@@ -75,7 +75,7 @@ My long-term goal is to advance intelligent assistive technologies that improve 
 </div>
 
 <!-- ===================== GRANTS ===================== -->
-{% if site.data.grants %}
+<!-- {% if site.data.grants %}
 <div class="section-card">
 <h3>Grants</h3>
 <ul>
@@ -84,10 +84,10 @@ My long-term goal is to advance intelligent assistive technologies that improve 
 {% endfor %}
 </ul>
 </div>
-{% endif %}
+{% endif %} -->
 
 <!-- ===================== AWARDS ===================== -->
-{% if site.data.awards %}
+<!-- {% if site.data.awards %}
 <div class="section-card">
 <h3>Awards</h3>
 <ul>
@@ -96,10 +96,10 @@ My long-term goal is to advance intelligent assistive technologies that improve 
 {% endfor %}
 </ul>
 </div>
-{% endif %}
+{% endif %} -->
 
 <!-- ===================== STUDENTS ===================== -->
-{% if site.data.people %}
+<!-- {% if site.data.people %}
 <div class="section-card">
   <h3>Students and Mentoring</h3>
 
@@ -115,7 +115,7 @@ My long-term goal is to advance intelligent assistive technologies that improve 
     {% endfor %}
   </ul>
 </div>
-{% endif %}
+{% endif %} -->
 
 
 <!-- ===================== SPONSORS ===================== -->
