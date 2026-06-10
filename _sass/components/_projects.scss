@@ -3,16 +3,11 @@
 ========================================================= */
 
 .projects-intro {
-
   font-size: 1.05rem;
-
   line-height: 1.9;
-
   color: var(--text-secondary);
-
   margin-bottom: 3rem;
-
-  width: 100%
+  width: 100%;
 }
 
 /* =========================================================
@@ -20,19 +15,12 @@
 ========================================================= */
 
 .project-card {
-
   background: var(--bg-card);
-
   border: 1px solid var(--border-color);
-
   border-radius: 24px;
-
   padding: 2rem;
-
   margin-bottom: 4rem;
-
   overflow: hidden;
-
   box-shadow: var(--shadow-sm);
 }
 
@@ -41,76 +29,48 @@
 ========================================================= */
 
 .project-top {
-
   display: grid;
-
   grid-template-columns: 1.1fr 1fr;
-
   gap: 2rem;
-
   align-items: center;
 }
 
 /* =========================================================
    Videos
 ========================================================= */
+
 .project-video-exo {
-
   width: 70%;
-
-  // height: 300px;
-
-  aspect-ratio:auto;
-
+  aspect-ratio: auto;
   object-fit: contain;
-
   background: transparent;
-
   border-radius: 16px;
-  margin-left: 10%; 
+  margin-left: 10%;
   margin-right: auto;
 }
 
-
 .project-video-human {
-
   width: 100%;
-
-  aspect-ratio:auto;
-
+  aspect-ratio: auto;
   object-fit: cover;
-
   background: black;
-
   border-radius: 16px;
 }
 
 .project-video-micro {
-
   width: 100%;
-
   aspect-ratio: auto;
-
   height: 300px;
-
   object-fit: cover;
-
   background: black;
-
   border-radius: 16px;
 }
 
-
 .project-video {
-
   width: 100%;
-
   aspect-ratio: 4 / 3;
-
   object-fit: cover;
-
   background: black;
-
   display: block;
 }
 
@@ -119,42 +79,22 @@
 ========================================================= */
 
 .project-media-grid {
-
   display: grid;
-
   grid-template-columns: repeat(2, 1fr);
-
   gap: 1rem;
 }
 
 .gif-panel {
-
   border-radius: 16px;
-
   overflow: hidden;
-
   border: 1px solid var(--border-color);
-
   background: var(--bg-card);
 }
 
-// .gif-caption {
-
-//   padding: 0.7rem;
-
-//   text-align: center;
-
-//   font-size: 0.9rem;
-
-//   color: var(--text-secondary);
-
-//   background: var(--bg-secondary);
-// }
 .gif-caption {
   display: block;
   width: 100%;
   box-sizing: border-box;
-
   padding: 0.7rem;
   text-align: center;
   font-size: 0.9rem;
@@ -166,39 +106,30 @@
   display: block;
   width: 100%;
 }
+
 /* =========================================================
    Content
 ========================================================= */
 
 .project-content h3 {
-
   margin-top: 0;
-
   margin-bottom: 1rem;
 }
 
 .project-summary {
-
   line-height: 1.8;
-
   color: var(--text-secondary);
-
   margin-bottom: 1.5rem;
 }
 
 .project-details {
-
   margin-top: 1rem;
-
-  margin-bottom: 0.75rem;/* add this to tighten before publications */
-
+  margin-bottom: 0.75rem;
   padding-left: 1.2rem;
 }
 
 .project-details li {
-
   margin-bottom: 0.5rem;
-
   color: var(--text-secondary);
 }
 
@@ -207,31 +138,19 @@
 ========================================================= */
 
 .tech-tags {
-
   display: flex;
-
   flex-wrap: wrap;
-
-  gap: 0.6rem 1.2rem;   /* row-gap column-gap (vertical, horizontal) */
-
+  gap: 0.6rem 1.2rem;
   margin-bottom: 1.5rem;
 }
 
-
 .tech-tags span {
-
   background: var(--bg-secondary);
-
   color: var(--text-primary);
-
   border: 1px solid var(--border-color);
-
   padding: 0.35rem 0.8rem;
-
   border-radius: 999px;
-
   font-size: 0.82rem;
-
   font-weight: 500;
 }
 
@@ -240,118 +159,65 @@
 ========================================================= */
 
 .project-publications {
-
   margin-top: 1.1rem;
-
   width: 100%;
-
   padding-top: 1rem;
-
   border-top: 1px solid var(--border-color);
 }
 
-.project-publications .publication-list { 
-  width: 100%; }
+.project-publications .publication-list {
+  width: 100%;
+}
 
 .pub-section-title {
-
   margin-bottom: 1.0rem;
 }
 
-/* Projects page: make bibliography use full card width */
 .project-publications .publication-list,
 .project-publications .publication-list ol.bibliography,
 .project-publications .publication-list ol.bibliography > li,
 .project-publications .publication-list .pub-entry {
   width: 100%;
   max-width: none;
-  // padding-left: 1.2rem;
 }
 
-/* Remove extra indentation/marker spacing inside project cards */
 .project-publications .publication-list ol.bibliography {
   margin: 0;
-  padding-left: 0;     /* remove list indent */
-  list-style: none;    /* remove numbers/bullets */
-  // padding-left: 1.2rem;
+  padding-left: 0;
+  list-style: none;
 }
 
-/* Ensure the reference line uses full width */
 .project-publications .publication-list .pub-entry .text-justify {
   width: 100%;
 }
 
-/* Optional: if .text-justify is doing something odd */
 .project-publications .publication-list .text-justify {
-  text-align: left;    /* instead of justify, which can look like gaps */
+  text-align: left;
 }
 
-/* Bullets with smaller left indent (Projects page only) */
 .project-publications .publication-list ol.bibliography {
   list-style: disc;
-  list-style-position: outside; /* default, keeps marker in gutter */
-  padding-left: 0.9rem;         /* was 1.2rem; tweak smaller */
+  list-style-position: outside;
+  padding-left: 0.9rem;
   margin: 0;
 }
 
-/* Tighten spacing between references */
 .project-publications .publication-list .pub-entry {
-  padding: 0.75rem 0;           /* was var(--space-6) 0 */
+  padding: 0.75rem 0;
   margin: 0;
 }
 
-/* Tighten space between "Selected Publications" and the list */
 .project-publications .pub-section-title {
-  margin-bottom: 0.75rem;       /* was 1.5rem */
+  margin-bottom: 0.75rem;
 }
 
 .project-publications .publication-list .pub-actions {
-  margin-top: 0.1rem;           /* was var(--space-3) */
+  margin-top: 0.1rem;
 }
 
 /* =========================================================
-   Responsive
+   Additional styles
 ========================================================= */
-
-@media (max-width: 900px) {
-
-  .project-top {
-
-    grid-template-columns: 1fr;
-  }
-
-  .project-media-grid {
-
-    grid-template-columns: 1fr;
-  }
-
-}
-
-@media (max-width: 900px) {
-  .project-card,
-  .project-top,
-  .project-media,
-  .project-content {
-    overflow: visible;
-  }
-}
-@media (max-width: 900px) {
-  .project-video,
-  .project-video-human,
-  .project-video-exo,
-  .project-video-micro {
-    height: auto;
-    min-height: 180px;   /* ensures the box is visible */
-  }
-}
-/* Mobile Safari/grid safety: allow grid children to shrink */
-.project-top > *,
-.project-media-grid > * {
-  min-width: 0;
-}
-.project-card {
-  min-width: 0;
-}
 
 .project-media-grid .gif-caption {
   width: 100%;
@@ -363,6 +229,72 @@
   background: var(--bg-secondary);
 }
 
-.project-media-grid .gif-caption {
-  background: transparent;  /* so it uses the panel background */
+.search-overlay {
+  display: none;
+
+  &.open {
+    display: flex;
+  }
+}
+
+/* =========================================================
+   MOBILE NUCLEAR OPTION - FORCES EVERYTHING VISIBLE
+========================================================= */
+
+@media (max-width: 900px) {
+  .fade-in-section,
+  .project-card,
+  .project-top,
+  .project-media,
+  .project-content,
+  .project-details,
+  .project-details li {
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+  }
+
+  .project-card {
+    border: 1px solid var(--border-color) !important;
+    min-height: 200px !important;
+    margin: 20px 0 !important;
+    padding: 20px !important;
+    background: var(--bg-card) !important;
+  }
+
+  .project-top {
+    display: block !important;
+  }
+
+  .project-media,
+  .project-content {
+    display: block !important;
+    width: 100% !important;
+    margin-bottom: 1.5rem !important;
+  }
+
+  .project-details {
+    display: block !important;
+  }
+
+  .project-details li {
+    display: list-item !important;
+  }
+
+  .project-video,
+  .project-video-exo,
+  .project-video-human,
+  .project-video-micro {
+    width: 100% !important;
+    height: auto !important;
+    margin: 0 !important;
+  }
+
+  .project-media-grid {
+    display: block !important;
+  }
+
+  .gif-panel {
+    margin-bottom: 1rem !important;
+  }
 }

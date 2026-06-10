@@ -6,10 +6,6 @@ permalink: /publications/
 ---
 
 # Publications
-<div style="padding:12px;border:2px solid red;">
-  DEBUG: page loaded
-</div>
-
 ---
 
 ## Human-Robot Interaction 
@@ -33,6 +29,8 @@ src="{{ site.url }}{{ site.baseurl }}/videos/projects/exo_walking.mp4"
 type="video/mp4">
 
 </video>
+
+
 
 </div>
 
@@ -316,6 +314,7 @@ Selected Publications
 
 </div>
 
+---
 
 ## Automatic Control
 
