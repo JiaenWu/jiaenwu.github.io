@@ -5,29 +5,30 @@ sitemap: false
 permalink: /join/
 ---
 
-## Join the Lab!
+# Join the Lab!
 
 <div class="section-card">
+## Open Positions
 
-I am actively looking for motivated researchers at all levels who are interested in
-wearable robotics, human locomotion, balance control, and human-robot interaction.
+I am actively looking for motivated researchers at all levels who are excited about
+**wearable robotics**, **human locomotion**, **balance control**, and **human–robot interaction**.
 
 We welcome applications from:
 
 <ul>
 <li><strong>PhD candidates</strong> (Spring / Fall 2027 intake)</li>
-<li><strong>Master’s students</strong> (thesis or research-based projects)</li>
 <li><strong>Postdoctoral fellows</strong></li>
-<li><strong>Research assistants</strong></li>
+<li><strong>Research assistants</strong> </li>
+<li><strong>Master's students</strong> (thesis or research-based projects)</li>
 <li><strong>Visiting scholars</strong></li>
 </ul>
 
-Ideal candidates have strong backgrounds in one or more of the following:
+<!-- Ideal candidates have strong backgrounds in one or more of the following:
 robotics, controls, biomechanics, machine learning, embedded systems, or human movement science.
-Prior experience in experimental robotics or human subject studies is a plus.
+Prior experience in experimental robotics or human subject studies is a plus. -->
+
 
 </div>
-
 
 <!-- ===================== RESEARCH ===================== -->
 
@@ -42,15 +43,117 @@ Current research themes include:
 <ul>
 <li>Human balance and perturbation response analysis</li>
 <li>Wearable robotics and exoskeleton control</li>
-<li>Real-time gait phase detection and adaptive assistance</li>
+<li>Phase-based adaptive control</li>
 <li>Human-in-the-loop optimization</li>
 <li>Data-driven modeling of locomotion and stability</li>
 <li>Bio-inspired control for assistive and rehabilitative devices</li>
 </ul>
 
-Prospective students are encouraged to contact me with a short CV and a brief description of their research interests.
 
 </div>
+
+
+<div class="section-card">
+
+## Who Thrives Here
+
+I am looking for **self-motivated, curious, resilient, and hands-on** researchers.
+
+### You are a good fit if you:
+
+<ul>
+  <li><strong>Ask good questions</strong>: You don't just execute, you think about <em>why</em>, not only <em>how</em>.</li>
+  <li><strong>Enjoy building things</strong>: Whether code, hardware, experiments, or prototypes, you like making.</li>
+  <li><strong>Embrace failure</strong>: You see dead ends as data, not defeat .</li>
+  <li><strong>Communicate clearly</strong>: You can explain your work to both experts and non-experts, in writing and in discussion.</li>
+</ul>
+
+<!-- 
+### Helpful backgrounds (not all required):
+
+- Bachelor's or Master's in Engineering (e.g., ME, BME, MSE, EE, etc), robotics, computer science, mathematics, or other related fileds.
+- Some research experience (thesis, project, or industry R&D) (not required if you show exceptional potential)
+- Basic programming or experimental skills (*Missing some skills? That's fine. We can teach the rest, I care more about your ability to learn than your existing toolkit.* ) -->
+<ul>
+  <li><strong>Training</strong>: Bachelor's or Master's in engineering (e.g., ME/BME/MSE/EE), robotics, computer science, mathematics, or related fields.</li>
+  <li><strong>Experience</strong>: Research exposure (thesis, projects, or industry R&amp;D). Exceptional potential can substitute for prior research experience.</li>
+  <li><strong>Skills</strong>: Basic programming and/or experimental skills. <em>Missing some skills? That's fine, we can teach the rest.</em></li>
+</ul>
+
+
+### What I do <em>not</em> expect
+<ul>
+  <li>A perfect GPA or a long publication list</li>
+  <li>You to know everything before you start</li>
+  <li>Unsustainable work hours (consistency matters more than burnout)</li>
+</ul>
+
+### What I value most
+<ul>
+  <li><strong>Ownership</strong>: You take responsibility for moving your project forward.</li>
+  <li><strong>Healthy debugging habits</strong>: You ask for help when stuck—early and often.</li>
+  <li><strong>Good documentation</strong>: You write things down so future-you (and your teammates) can build on your work.</li>
+  <li><strong>Growth mindset</strong>: You celebrate small wins and learn quickly from failures.</li>
+</ul>
+
+<blockquote>
+  <p><em>I value <strong>learning ability, responsibility, and persistence</strong> over any single skill. 
+    If you are excited about our research directions and eager to grow, I want to hear from you!</em></p>
+</blockquote>
+
+<hr/>
+
+<em>I welcome applicants from all backgrounds. If you are unsure whether you fit, please reach out! A quick email is better than self-selecting out.</em>
+
+
+
+
+<!-- ### Essential Qualities
+
+| Quality | What It Means to Me |
+|---------|---------------------|
+| **Intellectual curiosity** | You ask "why" and "what if" — not just "how." You read papers beyond what is required. |
+| **Hands-on problem solving** | You enjoy building, tinkering, and troubleshooting. You are not afraid to get your hands dirty. |
+| **Resilience** | Research is 90% failure. You bounce back, learn from mistakes, and try again. |
+| **Clear communication** | You can explain complex ideas simply — in writing and in person. | -->
+
+<!-- ### Preferred Background -->
+
+<!-- - **Degree:** Bachelor's or Master's in [Your Field, e.g., Mechanical Engineering, Biomedical Engineering, Materials Science, Electrical Engineering] or a related discipline
+- **Research experience:** Prior undergraduate or master's thesis research is a strong plus (not required if you show exceptional potential)
+- **Technical skills** (depending on project):
+  - [Skill 1, e.g., CAD/FEM simulation]
+  - [Skill 2, e.g., Microfabrication/cleanroom experience]
+  - [Skill 3, e.g., Python/MATLAB for data analysis]
+  - [Skill 4, e.g., Basic optics or electronics]
+
+> 💡 *Missing some skills? That's fine. I care more about your ability to learn than your existing toolkit.* -->
+
+<!-- ### What I Value Most
+
+> *"I am looking for someone who, when given a vague problem and a broken prototype, gets excited rather than frustrated."*
+
+I do **not** expect you to know everything on day one. What I do expect is:
+
+- You take ownership of your project
+- You ask for help when stuck (early and often)
+- You document your work (so future you and I can understand it)
+- You celebrate small wins and learn from failures
+
+### Not a Good Fit If...
+
+- You need step-by-step instructions for everything
+- You prefer working alone and dislike collaboration
+- You see a PhD as "just another degree" rather than a research apprenticeship
+- You are not comfortable with written and spoken English -->
+
+<!-- --- -->
+
+<!-- *I welcome applicants from all backgrounds. If you are unsure whether you fit, please reach out — a quick email is better than self-selecting out:)* -->
+
+
+</div>
+
 
 
 <!-- ===================== GRADUATE FUNDING ===================== -->
@@ -111,23 +214,86 @@ Prospective students are encouraged to contact me with a short CV and a brief de
 
 <!-- ===================== CONTACT ===================== -->
 
-<div class="section-card">
+<!-- <div class="section-card"> -->
 
-## How to Apply
+<!-- ## How to Apply - Two-Step Process
 
-Please fill out the application form:
+### Step 1: Seek Preliminary Feedback (Required before formal application)
+
+Before submitting your official application to NTU, please complete this 
 <a href="https://forms.gle/rzgZQKBMJsyuTTgQ8" target="_blank" rel="noopener">
-  Application Form
-</a>.
+  inquiry form
+</a>  
+to receive my initial assessment and mentorship guidance:
 
-<strong>Required application materials</strong>
+I will personally review your materials and provide feedback on:
+- Your fit with my lab's research direction
+- Your competitiveness for various scholarship schemes
+- Suggestions to strengthen your research proposal
 
-<ul>
+<strong>Required materials for the form</strong>
+
+<ul> -->
 <!-- <li>Cover letter (1 page)</li> -->
-<li>CV including publication links (if any)</li>
+<!-- <li>CV including publication links (if any)</li>
 <li>Statement of research experience and interests (max 3 pages)</li>
 <li>Transcripts for bachelor's and master's (if any), containing the list of courses and grades.</li>
 <li>Optional supporting documents: thesis, etc</li>
 </ul>
+
+### Step 2: Submit Official Application
+
+**If encouraged after Step 1**, please submit your official application to the 
+<a href="https://www.ntu.edu.sg/education/graduate-programme/mae-phd" target="_blank" rel="noopener">
+  NTU MAE PhD Programmes 
+</a>
+(Select “Others” and specify “Jiaen Wu” in the dropdown box for potential supervisors). -->
+
+<!-- ### Interview Process
+
+Shortlisted candidates from the inquiry form will be contacted for an **initial interview**. 
+Candidates who pass the initial interview will be added to my **shortlist** and guided through the official application process. 
+Final admission decisions are made by the MAE Graduate Admissions Committee after reviewing your complete application  -->
+
+
+<!-- </div> -->
+
+<div class="section-card">
+
+## How to Apply (Two-Step Process)
+
+### Step 1 — Inquiry Form (required before official application)
+Before submitting an official application to NTU, please complete the following form to receive my initial assessment and mentorship guidance:
+
+<p>
+  <a class="btn-pill" href="https://forms.gle/rzgZQKBMJsyuTTgQ8" target="_blank" rel="noopener">
+    Submit Inquiry Form
+  </a>
+</p>
+
+If Google Forms is inaccessible or restricted, 
+you may instead email your materials directly to <a href="mailto:jiaenwu@stanford.edu">me</a> (subject: <strong>“Join Inquiry – [Your Name]”</strong>).
+
+
+**Required materials (single combined PDF preferred):**
+<ul>
+  <li><strong>CV</strong> (include publication links if applicable)</li>
+  <li><strong>Statement of research interests</strong> (1-3 pages) describing what questions excite you, why they matter, and a rough idea of how you might approach them (no detailed methodology needed).</li>
+  <li><strong>Transcripts</strong> (Bachelor’s and/or Master’s, if available; include courses and grades)</li>
+  <li><strong>Optional supporting documents</strong> (e.g., thesis, representative paper, portfolio)</li>
+</ul>
+
+<hr/>
+
+### Step 2 — Official NTU Application
+If encouraged after Step 1, please submit your formal application to the:
+
+<p>
+  <a class="btn-pill" href="https://www.ntu.edu.sg/education/graduate-programme/mae-phd" target="_blank" rel="noopener">
+    NTU MAE PhD Programme
+  </a>
+</p>
+
+When selecting a potential supervisor, choose <strong>“Others”</strong> and enter <strong>“Jiaen Wu”</strong>.
 
 </div>
