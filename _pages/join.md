@@ -126,7 +126,7 @@ I am looking for **self-motivated, curious, resilient, and hands-on** researcher
   <li><strong>Facilities</strong>: Access to NTU's robotics labs, motion capture systems, wearable sensor platforms, and mechanical testing equipment.</li>
   <li><strong>Computation</strong>: High-performance computing and GPU resources for data-driven modeling and simulation.</li>
   <li><strong>Collaboration</strong>: Opportunities to work with clinicians, industry partners, and top international groups.</li>
-</ul>
+</ul>s
 
 ### Why NTU MAE (Singapore)?
 
@@ -294,8 +294,9 @@ Final admission decisions are made by the MAE Graduate Admissions Committee afte
 
 ## How to Apply (Two-Step Process)
 
-### Step 1 — Inquiry Form (required before official application)
-Before submitting an official application to NTU, please complete the following form to receive my initial assessment and mentorship guidance:
+### Step 1 — Inquiry (pre-screening before official application)
+Before submitting an official application to NTU, applicants are encouraged to complete the inquiry process below to receive early feedback on research fit and potential supervision alignment.
+
 
 <p>
   <a class="btn-pill" href="https://forms.gle/rzgZQKBMJsyuTTgQ8" target="_blank" rel="noopener">
@@ -304,18 +305,33 @@ Before submitting an official application to NTU, please complete the following 
 </p>
 
 If Google Forms is inaccessible or restricted, 
-you may instead email your materials directly to <a href="mailto:jiaenwu@stanford.edu">me</a> (subject: <strong>“Join Inquiry – [Your Name]”</strong>).
+you may instead email your materials directly to <a href="mailto:jiaenwu@stanford.edu">me</a> (subject: <strong>“Join Inquiry for [Position] – [Your Name]”</strong>).
 
 
 **Required materials (single combined PDF preferred):**
 <ul>
   <li><strong>CV</strong> (include publication links if applicable)</li>
-  <li><strong>Statement of research interests</strong> (1-3 pages) describing what questions excite you, why they matter, and a rough idea of how you might approach them (no detailed methodology needed).</li>
+  <li><strong>Statement of research interests</strong> (1-2 pages) describing your research experience, research interests, and intended future PhD research direction.
+    <!-- describing what questions excite you, why they matter, and a rough idea of how you might approach them (no detailed methodology needed). -->
+  </li>
   <li><strong>Transcripts</strong> (Bachelor’s and/or Master’s, if available; include courses and grades)</li>
-  <li><strong>Optional supporting documents</strong> (e.g., thesis, representative paper, portfolio)</li>
+  <li><strong>Optional supporting documents</strong> (e.g., thesis, representative papers, or project/code portfolio)</li>
 </ul>
 
 <hr/>
+
+### Research Statement (guidance)
+
+Applicants should submit a <strong>1–2 page Research Statement</strong>.
+
+Please focus on:
+<ul>
+  <li>your research experience and contributions</li>
+  <li>your research interests</li>
+  <li>your intended PhD research direction</li>
+</ul>
+
+You may structure your statement freely. We value <strong>specificity, technical depth, and clarity of research trajectory</strong>.
 
 ### Step 2 — Official NTU Application
 If encouraged after Step 1, please submit your formal application to the:
