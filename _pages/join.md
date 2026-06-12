@@ -29,7 +29,7 @@ I am recruiting PhD students for the 2027 intake.
 
 **Funding:** Most PhD positions will be fully funded through one of our projects. 
 Applicants are also welcome to apply for external fellowships and NTU scholarships: 
-<a href="https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships" target="_blank" rel="noopener">NTU scholarship information</a>.
+<a href="https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships" target="_blank" rel="noopener">NTU scholarship information</a> (<a href="{{ site.baseurl }}/join/#phd-fellowships">also see the list below</a>).
 
 ---
 
@@ -82,7 +82,7 @@ you may instead email your materials directly to <a href="mailto:jiaenwu@stanfor
   <li><strong>Optional supporting documents</strong> (e.g., thesis, representative papers, or project/code portfolio)</li>
 </ul>
 
-### Step 2 — Official NTU Application
+#### Step 2 — Official NTU Application
 If encouraged after Step 1, please submit your formal application to the:
 
 <p>
@@ -234,7 +234,7 @@ I am looking for **self-motivated, curious, resilient, and hands-on** researcher
 
 <!-- ===================== GRADUATE FUNDING ===================== -->
 
-<div class="section-card">
+<div class="section-card" id="phd-fellowships">
 
 ## Funding and Scholarships (Graduate Students)
 
