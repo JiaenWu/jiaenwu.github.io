@@ -14,7 +14,7 @@ permalink: /
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Human Balance</a>
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Locomotion</a>
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Exoskeletons</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Human-Robot Interaction</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Physical Human-Robot Interaction</a>
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Optimal Control</a>
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Bio-Inspired Robotics</a>
 </div>
@@ -42,15 +42,15 @@ I am actively recruiting:
 
 <ul class="highlight-list">
 <li><strong>PhD students</strong> (Spring/Fall 2027 intake)</li>
-<li><strong>Postdoctoral fellows</strong></li>
 <li><strong>Research assistants</strong></li>
+<li><strong>Postdoctoral fellows</strong></li>
 </ul>
 
 <p style="margin-bottom: 1.8rem;">
 Research areas include <strong>wearable robotics, human locomotion,
-balance control, biomechanics, and human-robot interaction.</strong>
+stability control, biomechanics, and physical human-robot interaction.</strong>
 
-Our vision is to develop intelligent robotic systems that enhance human mobility, stability, and physical performance through robotics, biomechanics, and real-time human-in-the-loop control. </p>
+Our vision is to develop intelligent robotic systems that enhance human mobility, stability, and physical performance through robotics, biomechanics, and optimal control. </p>
 
 <p style="margin-bottom: 0;">
 Please feel free to reach out if you are interested in joining the lab or collaborating. <br>

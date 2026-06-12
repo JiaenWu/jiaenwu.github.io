@@ -10,46 +10,140 @@ permalink: /join/
 <div class="section-card">
 ## Open Positions
 
-I am actively looking for motivated researchers at all levels who are excited about
-**wearable robotics**, **human locomotion**, **balance control**, and **human–robot interaction**.
+I am actively recruiting motivated researchers at at levels who are excited about
+**wearable robotics**, **human locomotion**, **stability control**, and **physical human–robot interaction**.
 
-We welcome applications from:
+---
+
+### PhD Students (Spring / Fall 2027 intake)
+
+I am recruiting PhD students for the 2027 intake.
+
+#### Helpful backgrounds (not all required):
 
 <ul>
-<li><strong>PhD candidates</strong> (Spring / Fall 2027 intake)</li>
-<li><strong>Postdoctoral fellows</strong></li>
-<li><strong>Research assistants</strong> </li>
-<li><strong>Master's students</strong> (thesis or research-based projects)</li>
-<li><strong>Visiting scholars</strong></li>
+  <li><strong>Education</strong>: Bachelor's or Master's in engineering (e.g., MAE/BME/EE), robotics, control, computer science, applied mathematics, or related fields.</li>
+  <li><strong>Experience</strong>: Research experience through thesis, projects, or industry R&amp;D (helpful but not required if you demonstrate strong potential).</li>
+  <li><strong>Skills</strong>: Programming (Python/MATLAB/C/C++) and/or experimental skills (e.g., motion capture, musculoskeletal simulation). </li>
 </ul>
 
+**Funding:** Most PhD positions will be fully funded through one of our projects. 
+Applicants are also welcome to apply for external fellowships and NTU scholarships: 
+<a href="https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships" target="_blank" rel="noopener">NTU scholarship information</a>.
+
+---
+
+### Postdoctoral Fellows
+
+Postdoc typically join for <strong>2–3 years</strong> and help build a healthy and vibrant research environment. 
+They are expected to lead independent research, publish high-quality papers, contribute new project ideas, mentor students, and (when relevant) support proposal/grant development.
+
+If you see a strong research fit, please feel free to reach out even if no specific postdoctoral opening is currently advertised.
+
+You are also welcome to apply for postdoctoral fellowships (<a href="{{ site.baseurl }}/join/#postdoc-fellowships">see the list below</a>).
+
+---
+
+### Research Assistants, Master's Students, and Visiting Researchers (Open Year-Round)
+
+I welcome applications from individuals seeking research experience in robotics, biomechanics, human movement science, control, and human-robot interaction.
+
+Projects may involve experimental studies, data analysis, modeling and simulation, algorithm development, or hardware implementation.
 
 </div>
 
-<!-- ===================== RESEARCH ===================== -->
 
 <div class="section-card">
 
-## Research Directions
+## How to Apply 
 
-We work at the intersection of robotics, biomechanics, and human motor control.
+### PhD Applicants (Two-Step Process)
 
-Current research themes include:
+#### Step 1 — Inquiry (pre-screening)
+Before submitting an official application in the NTU portal, 
+applicants are encouraged to complete the inquiry process below to receive early feedback on research fit and potential supervision alignment.
 
+
+<p>
+  <a class="btn-pill" href="https://forms.gle/rzgZQKBMJsyuTTgQ8" target="_blank" rel="noopener">
+    Submit Inquiry Form
+  </a>
+</p>
+
+If Google Forms is inaccessible or restricted, 
+you may instead email your materials directly to <a href="mailto:jiaenwu@stanford.edu">me</a> (subject: <strong>“Join Inquiry for [Position] – [Your Name]”</strong>).
+
+
+**Required materials (single combined PDF preferred):**
 <ul>
-<li>Human balance and perturbation response analysis</li>
-<li>Wearable robotics and exoskeleton control</li>
-<li>Phase-based adaptive control</li>
-<li>Human-in-the-loop optimization</li>
-<li>Data-driven modeling of locomotion and stability</li>
-<li>Bio-inspired control for assistive and rehabilitative devices</li>
+  <li><strong>CV</strong> (include publication links if applicable)</li>
+  <li><strong>Statement of research interests</strong> (1-2 pages) describing your your research experience and contributions, research interests, and intended future PhD research direction.</li>
+  <li><strong>Transcripts</strong> (Bachelor’s and/or Master’s, if available; include courses and grades)</li>
+  <li><strong>Optional supporting documents</strong> (e.g., thesis, representative papers, or project/code portfolio)</li>
 </ul>
+
+### Step 2 — Official NTU Application
+If encouraged after Step 1, please submit your formal application to the:
+
+<p>
+  <a class="btn-pill" href="https://www.ntu.edu.sg/education/graduate-programme/mae-phd" target="_blank" rel="noopener">
+    NTU MAE PhD Programme
+  </a>
+</p>
+
+When selecting a potential supervisor, choose <strong>“Others”</strong> and enter <strong>“Jiaen Wu”</strong>.
+
+<hr/>
+
+
+### Postdoctoral Applicants
+Please submit the inquiry form (no NTU portal step):
+
+<p>
+  <a class="btn-pill" href="https://forms.gle/rzgZQKBMJsyuTTgQ8" target="_blank" rel="noopener">
+    Submit Inquiry Form
+  </a>
+</p>
+
+<strong>Materials:</strong>
+<ul>
+  <li><strong>CV</strong></li>
+  <li><strong>Research statement / plan</strong> (1–2 pages): key prior achievements, future directions, and fit with the lab</li>
+  <li><strong>Optional</strong>: 2 representative papers (links or PDFs)</li>
+</ul>
+
+<hr/>
+
+
+### Research Assistant / Master's Students / Visiting Scholar Applicants
+Please submit the inquiry form (no NTU portal step): 
+
+<p>
+  <a class="btn-pill" href="https://forms.gle/rzgZQKBMJsyuTTgQ8" target="_blank" rel="noopener">
+    Submit Inquiry Form
+  </a>
+</p>
+
+<strong>Materials:</strong>
+<ul>
+  <li><strong>CV</strong></li>
+  <li><strong>Brief statement of interests</strong> (≤1 page): background, what you want to work on, and availability</li>
+  <li><strong>Optional</strong>: transcript and/or portfolio link</li>
+</ul>
+
+<hr/>
+
+### If the form is inaccessible
+If Google Forms is inaccessible or restricted, email your materials (one combined PDF) to
+<a href="mailto:jiaenwu@stanford.edu">me</a>
+with subject: <strong>“Join Inquiry – [Position] – [Your Name]”</strong>.
+
 
 </div>
 
-
 <!-- ===================== WHO THRIVES HERE ===================== -->
 
+<!--
 <div class="section-card">
 
 ## Who Thrives Here
@@ -61,17 +155,7 @@ I am looking for **self-motivated, curious, resilient, and hands-on** researcher
 <ul>
   <li><strong>Ask good questions</strong>: You don't just execute, you think about <em>why</em>, not only <em>how</em>.</li>
   <li><strong>Enjoy building things</strong>: Whether code, hardware, experiments, or prototypes, you like making.</li>
-  <li><strong>Comfort with failure</strong>: You see dead ends as data, not defeat .</li>
   <li><strong>Communicate clearly</strong>: You can explain your work to both experts and non-experts, in writing and in discussion.</li>
-</ul>
-
-
-### Helpful backgrounds (not all required):
-
-<ul>
-  <li><strong>Training</strong>: Bachelor's or Master's in engineering (e.g., MAE/BME/EE), robotics, computer science, mathematics, or related fields.</li>
-  <li><strong>Experience</strong>: Prior research through thesis, projects, or industry R&amp;D. Not necessary  if you show exceptional potential.</li>
-  <li><strong>Skills</strong>: Basic programming (e.g., Python, MATLAB, C, or C++) and/or experimental skills. <em>Missing some skills? We can teach the rest.</em></li>
 </ul>
 
 
@@ -80,7 +164,6 @@ I am looking for **self-motivated, curious, resilient, and hands-on** researcher
   <li><strong>Ownership</strong>: You take responsibility for moving your project forward.</li>
   <li><strong>Independence</strong>: You drive the day-to-day execution: exploring, trying, failing, learning. You attempt solutions first, then we troubleshoot together.</li>
   <li><strong>Good documentation</strong>: You write things down so future-you (and your teammates) can build on your work.</li>
-  <li><strong>Growth mindset</strong>: You celebrate small wins and learn quickly from failures.</li>
 </ul>
 
 
@@ -90,7 +173,6 @@ I am looking for **self-motivated, curious, resilient, and hands-on** researcher
   <li>A perfect GPA: I care more about whether you understand the fundamentals</li>
   <li>A long publication list: I care more about whether you can finish what you start</li>
   <li>Knowing everything before day one: I expect to guide you, that's my job</li>
-  <li>80-hour work weeks: sustainability and consistency matters more than burnout</li>
 </ul>
 
 <blockquote>
@@ -103,6 +185,7 @@ I am looking for **self-motivated, curious, resilient, and hands-on** researcher
 <em>I welcome applicants from all backgrounds. If you are unsure whether you fit, please reach out! A quick email is better than self-selecting out.</em>
 
 </div>
+-->
 
 <!-- ===================== WHAT I OFFER ===================== -->
 
@@ -123,10 +206,10 @@ I am looking for **self-motivated, curious, resilient, and hands-on** researcher
 ### Lab & Resources
 
 <ul>
-  <li><strong>Facilities</strong>: Access to NTU's robotics labs, motion capture systems, wearable sensor platforms, and mechanical testing equipment.</li>
-  <li><strong>Computation</strong>: High-performance computing and GPU resources for data-driven modeling and simulation.</li>
+  <li><strong>Facilities</strong>: Access to NTU's robotics labs, motion capture systems, wearable robotics platforms, and mechanical testing equipment.</li>
+  <li><strong>Computation</strong>: High-performance computing resources for data-driven modeling and simulation.</li>
   <li><strong>Collaboration</strong>: Opportunities to work with clinicians, industry partners, and top international groups.</li>
-</ul>s
+</ul>
 
 ### Why NTU MAE (Singapore)?
 
@@ -135,63 +218,17 @@ I am looking for **self-motivated, curious, resilient, and hands-on** researcher
   <!-- <li><strong>Cutting-edge research</strong>: Strong expertise in robotics, control, biomechanics, and human-machine systems.</li> -->
   <li><strong>Generous funding</strong>: Competitive PhD scholarships (e.g., RSS, NPGS, A*STAR) with living stipends that allow you to focus on research.</li>
   <li><strong>Global hub</strong>: Singapore is a safe, vibrant, and multicultural city.</li>
-  <li><strong>Industry  & institutes</strong>: Close links to leading companies and research institutes (e.g., A*STAR, Google, Seed, local robotics startups) for internship and collaboration.</li>
+  <!-- <li><strong>Industry  & institutes</strong>: Close links to leading companies and research institutes (e.g., A*STAR, Google, Seed, local robotics startups) for internship and collaboration.</li> -->
 </ul>
 
-<blockquote>
+<!-- <blockquote>
   <p><em>
     I remember what it was like to start a PhD, the excitement, the uncertainty, the late nights. 
     I wont't promise you an easy journey, but you will not walk it alone. 
     My success is defined by yours. When you publish well, graduate on time, and launch the career you want, that is my reward.</em></p>
-</blockquote>
+</blockquote> -->
 
 </div>
-
-
-<!-- ### Essential Qualities
-
-| Quality | What It Means to Me |
-|---------|---------------------|
-| **Intellectual curiosity** | You ask "why" and "what if" — not just "how." You read papers beyond what is required. |
-| **Hands-on problem solving** | You enjoy building, tinkering, and troubleshooting. You are not afraid to get your hands dirty. |
-| **Resilience** | Research is 90% failure. You bounce back, learn from mistakes, and try again. |
-| **Clear communication** | You can explain complex ideas simply — in writing and in person. | -->
-
-<!-- ### Preferred Background -->
-
-<!-- - **Degree:** Bachelor's or Master's in [Your Field, e.g., Mechanical Engineering, Biomedical Engineering, Materials Science, Electrical Engineering] or a related discipline
-- **Research experience:** Prior undergraduate or master's thesis research is a strong plus (not required if you show exceptional potential)
-- **Technical skills** (depending on project):
-  - [Skill 1, e.g., CAD/FEM simulation]
-  - [Skill 2, e.g., Microfabrication/cleanroom experience]
-  - [Skill 3, e.g., Python/MATLAB for data analysis]
-  - [Skill 4, e.g., Basic optics or electronics]
-
-> 💡 *Missing some skills? That's fine. I care more about your ability to learn than your existing toolkit.* -->
-
-<!-- ### What I Value Most
-
-> *"I am looking for someone who, when given a vague problem and a broken prototype, gets excited rather than frustrated."*
-
-I do **not** expect you to know everything on day one. What I do expect is:
-
-- You take ownership of your project
-- You ask for help when stuck (early and often)
-- You document your work (so future you and I can understand it)
-- You celebrate small wins and learn from failures
-
-### Not a Good Fit If...
-
-- You need step-by-step instructions for everything
-- You prefer working alone and dislike collaboration
-- You see a PhD as "just another degree" rather than a research apprenticeship
-- You are not comfortable with written and spoken English -->
-
-<!-- --- -->
-
-<!-- *I welcome applicants from all backgrounds. If you are unsure whether you fit, please reach out — a quick email is better than self-selecting out:)* -->
-
-
 
 
 
@@ -227,7 +264,7 @@ I do **not** expect you to know everything on day one. What I do expect is:
 
 <!-- ===================== POSTDOC FUNDING ===================== -->
 
-<div class="section-card">
+<div class="section-card" id="postdoc-fellowships">
 
 ## Funding and Fellowships (Postdoctoral Fellows)
 
@@ -244,104 +281,5 @@ I do **not** expect you to know everything on day one. What I do expect is:
 </div>
 
 
-<!-- ===================== CONTACT ===================== -->
-
-<!-- <div class="section-card"> -->
-
-<!-- ## How to Apply - Two-Step Process
-
-### Step 1: Seek Preliminary Feedback (Required before formal application)
-
-Before submitting your official application to NTU, please complete this 
-<a href="https://forms.gle/rzgZQKBMJsyuTTgQ8" target="_blank" rel="noopener">
-  inquiry form
-</a>  
-to receive my initial assessment and mentorship guidance:
-
-I will personally review your materials and provide feedback on:
-- Your fit with my lab's research direction
-- Your competitiveness for various scholarship schemes
-- Suggestions to strengthen your research proposal
-
-<strong>Required materials for the form</strong>
-
-<ul> -->
-<!-- <li>Cover letter (1 page)</li> -->
-<!-- <li>CV including publication links (if any)</li>
-<li>Statement of research experience and interests (max 3 pages)</li>
-<li>Transcripts for bachelor's and master's (if any), containing the list of courses and grades.</li>
-<li>Optional supporting documents: thesis, etc</li>
-</ul>
-
-### Step 2: Submit Official Application
-
-**If encouraged after Step 1**, please submit your official application to the 
-<a href="https://www.ntu.edu.sg/education/graduate-programme/mae-phd" target="_blank" rel="noopener">
-  NTU MAE PhD Programmes 
-</a>
-(Select “Others” and specify “Jiaen Wu” in the dropdown box for potential supervisors). -->
-
-<!-- ### Interview Process
-
-Shortlisted candidates from the inquiry form will be contacted for an **initial interview**. 
-Candidates who pass the initial interview will be added to my **shortlist** and guided through the official application process. 
-Final admission decisions are made by the MAE Graduate Admissions Committee after reviewing your complete application  -->
 
 
-<!-- </div> -->
-
-<div class="section-card">
-
-## How to Apply (Two-Step Process)
-
-### Step 1 — Inquiry (pre-screening before official application)
-Before submitting an official application to NTU, applicants are encouraged to complete the inquiry process below to receive early feedback on research fit and potential supervision alignment.
-
-
-<p>
-  <a class="btn-pill" href="https://forms.gle/rzgZQKBMJsyuTTgQ8" target="_blank" rel="noopener">
-    Submit Inquiry Form
-  </a>
-</p>
-
-If Google Forms is inaccessible or restricted, 
-you may instead email your materials directly to <a href="mailto:jiaenwu@stanford.edu">me</a> (subject: <strong>“Join Inquiry for [Position] – [Your Name]”</strong>).
-
-
-**Required materials (single combined PDF preferred):**
-<ul>
-  <li><strong>CV</strong> (include publication links if applicable)</li>
-  <li><strong>Statement of research interests</strong> (1-2 pages) describing your research experience, research interests, and intended future PhD research direction.
-    <!-- describing what questions excite you, why they matter, and a rough idea of how you might approach them (no detailed methodology needed). -->
-  </li>
-  <li><strong>Transcripts</strong> (Bachelor’s and/or Master’s, if available; include courses and grades)</li>
-  <li><strong>Optional supporting documents</strong> (e.g., thesis, representative papers, or project/code portfolio)</li>
-</ul>
-
-<hr/>
-
-### Research Statement (guidance)
-
-Applicants should submit a <strong>1–2 page Research Statement</strong>.
-
-Please focus on:
-<ul>
-  <li>your research experience and contributions</li>
-  <li>your research interests</li>
-  <li>your intended PhD research direction</li>
-</ul>
-
-You may structure your statement freely. We value <strong>specificity, technical depth, and clarity of research trajectory</strong>.
-
-### Step 2 — Official NTU Application
-If encouraged after Step 1, please submit your formal application to the:
-
-<p>
-  <a class="btn-pill" href="https://www.ntu.edu.sg/education/graduate-programme/mae-phd" target="_blank" rel="noopener">
-    NTU MAE PhD Programme
-  </a>
-</p>
-
-When selecting a potential supervisor, choose <strong>“Others”</strong> and enter <strong>“Jiaen Wu”</strong>.
-
-</div>
