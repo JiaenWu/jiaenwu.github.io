@@ -50,7 +50,7 @@ I am actively recruiting:
 Research areas include <strong>wearable robotics, human locomotion,
 stability control, biomechanics, and physical human-robot interaction.</strong>
 
-Our vision is to develop intelligent robotic systems that enhance human mobility, stability, and physical performance through robotics, biomechanics, and optimal control. </p>
+My vision is to develop intelligent robotic systems that enhance human mobility, stability, and physical performance through robotics, biomechanics, and optimal control. </p>
 
 <p style="margin-bottom: 0;">
 Please feel free to reach out if you are interested in joining the lab or collaborating. <br>
