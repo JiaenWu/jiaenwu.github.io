@@ -77,7 +77,7 @@ you may instead email your materials directly to <a href="mailto:jiaenwu@stanfor
 **Required materials (single combined PDF preferred):**
 <ul>
   <li><strong>CV</strong> (include publication links if applicable)</li>
-  <li><strong>Statement of research interests</strong> (1-2 pages) describing your your research experience and contributions, research interests, and intended future PhD research direction.</li>
+  <li><strong>Statement of research interests</strong> (1-2 pages) describing your research experience and contributions, research interests, and intended future PhD research direction.</li>
   <li><strong>Transcripts</strong> (Bachelor’s and/or Master’s, if available; include courses and grades)</li>
   <li><strong>Optional supporting documents</strong> (e.g., thesis, representative papers, or project/code portfolio)</li>
 </ul>
@@ -133,7 +133,7 @@ Please submit the inquiry form (no NTU portal step):
 
 <hr/>
 
-### If the form is inaccessible
+### More Information
 If Google Forms is inaccessible or restricted, email your materials (one combined PDF) to
 <a href="mailto:jiaenwu@stanford.edu">me</a>
 with subject: <strong>“Join Inquiry – [Position] – [Your Name]”</strong>.
